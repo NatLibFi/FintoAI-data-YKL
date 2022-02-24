@@ -1,0 +1,43 @@
+schema: '2.0'
+stages:
+  loadvoc-fi:
+    cmd: annif loadvoc ykl-omikuji-parabel-fi /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/ykl-classes.tsv
+    deps:
+    - path: /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/ykl-classes.tsv
+      md5: b2f29070ccedefda72994b8db324e371
+      size: 187637
+    outs:
+    - path: data/vocabs/ykl-fi
+      md5: a82991d0655675d9d9bf8451d528e683.dir
+      size: 839908
+      nfiles: 3
+  train-omikuji-parabel-fi:
+    cmd: annif train ykl-omikuji-parabel-fi -j 8 /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-train.tsv
+    deps:
+    - path: /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-train.tsv
+      md5: 39070df2de1ed470ef21dca2d0a5554d
+      size: 44106743
+    - path: data/vocabs/ykl-fi
+      md5: a82991d0655675d9d9bf8451d528e683.dir
+      size: 839908
+      nfiles: 3
+    outs:
+    - path: data/projects/ykl-omikuji-parabel-fi
+      md5: 605a258161d302b2eacfed771b797a87.dir
+      size: 138152301
+      nfiles: 6
+  eval-omikuji-parabel-fi:
+    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
+      reports/test-omikuji-parabel-fi.json /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-test.tsv
+    deps:
+    - path: /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-test.tsv
+      md5: 9c26fd86d43db53bedef1c0a38f08fc8
+      size: 3708388
+    - path: data/projects/ykl-omikuji-parabel-fi
+      md5: 605a258161d302b2eacfed771b797a87.dir
+      size: 138152301
+      nfiles: 6
+    outs:
+    - path: reports/test-omikuji-parabel-fi.json
+      md5: 6582eb9a1e10ec01e3eda2e215bece58
+      size: 70
