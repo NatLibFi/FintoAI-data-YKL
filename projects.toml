@@ -1,0 +1,6 @@
+[ykl-omikuji-parabel-fi]
+name="YKL Omikuji Parabel Finnish"
+language="fi"
+backend="omikuji"
+analyzer="voikko(fi)"
+vocab="ykl-fi"
