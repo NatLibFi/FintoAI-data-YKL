@@ -1,1 +1,1 @@
-# -FintoAI-data-YKL
+# FintoAI-data-YKL
