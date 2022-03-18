@@ -1,0 +1,9 @@
+md5: c0b12e0a05399ad397f12e30d4bef364
+deps:
+- md5: b2f29070ccedefda72994b8db324e371
+  size: 187637
+  path: /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/ykl-classes.tsv
+outs:
+- md5: b2f29070ccedefda72994b8db324e371
+  size: 187637
+  path: ykl-classes.tsv

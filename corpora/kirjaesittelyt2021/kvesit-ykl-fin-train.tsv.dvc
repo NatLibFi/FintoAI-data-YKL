@@ -1,0 +1,9 @@
+md5: 1635cbb9dbac3b0bc8301dffc4fb3972
+deps:
+- md5: 39070df2de1ed470ef21dca2d0a5554d
+  size: 44106743
+  path: /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-train.tsv
+outs:
+- md5: 39070df2de1ed470ef21dca2d0a5554d
+  size: 44106743
+  path: kvesit-ykl-fin-train.tsv
