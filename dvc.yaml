@@ -1,0 +1,22 @@
+stages:
+  loadvoc-fi:
+    cmd: annif loadvoc ykl-omikuji-parabel-fi /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/ykl-classes.tsv
+    deps:
+    - /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/ykl-classes.tsv
+    outs:
+    - data/vocabs/ykl-fi
+  train-omikuji-parabel-fi:
+    cmd: annif train ykl-omikuji-parabel-fi -j 8 /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-train.tsv
+    deps:
+    - /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-train.tsv
+    - data/vocabs/ykl-fi
+    outs:
+    - data/projects/ykl-omikuji-parabel-fi
+  eval-omikuji-parabel-fi:
+    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
+      reports/test-omikuji-parabel-fi.json /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-test.tsv
+    deps:
+    - /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-fin-test.tsv
+    - data/projects/ykl-omikuji-parabel-fi
+    outs:
+    - reports/test-omikuji-parabel-fi.json
