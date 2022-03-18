@@ -1,7 +1,7 @@
 schema: '2.0'
 stages:
   loadvoc-fi:
-    cmd: venv/bin/annif loadvoc ykl-omikuji-parabel-fi corpora/ykl-classes.tsv
+    cmd: annif loadvoc ykl-omikuji-parabel-fi corpora/ykl-classes.tsv
     deps:
     - path: corpora/ykl-classes.tsv
       md5: b2f29070ccedefda72994b8db324e371
@@ -11,44 +11,44 @@ stages:
       size: 42
     outs:
     - path: data/vocabs/ykl-fi
-      md5: 26e5c941da1af79066d396a641c34b7a.dir
-      size: 766177
+      md5: 018083fe7ff2a658bb21414472563674.dir
+      size: 766171
       nfiles: 3
   train-omikuji-parabel-fi:
-    cmd: venv/bin/annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    cmd: annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
       md5: 39070df2de1ed470ef21dca2d0a5554d
       size: 44106743
     - path: data/vocabs/ykl-fi
-      md5: 26e5c941da1af79066d396a641c34b7a.dir
-      size: 766177
+      md5: 018083fe7ff2a658bb21414472563674.dir
+      size: 766171
       nfiles: 3
     - path: venv-installed
       md5: c5a0f860381968fb21a3086f9b48068a
       size: 42
     outs:
     - path: data/projects/ykl-omikuji-parabel-fi
-      md5: a8e068e639682785cfe80714b780d82a.dir
-      size: 138002472
+      md5: bd39ed99ed0b01a3da90b3ea2e686c8f.dir
+      size: 138494547
       nfiles: 6
   eval-omikuji-parabel-fi:
-    cmd: venv/bin/annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
+    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
       reports/test-omikuji-parabel-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
       md5: 9c26fd86d43db53bedef1c0a38f08fc8
       size: 3708388
     - path: data/projects/ykl-omikuji-parabel-fi
-      md5: a8e068e639682785cfe80714b780d82a.dir
-      size: 138002472
+      md5: bd39ed99ed0b01a3da90b3ea2e686c8f.dir
+      size: 138494547
       nfiles: 6
     - path: venv-installed
       md5: c5a0f860381968fb21a3086f9b48068a
       size: 42
     outs:
     - path: reports/test-omikuji-parabel-fi.json
-      md5: a1642e074cfbe35627767b670d9f1a9e
+      md5: 5e4863e754ff7378dd05a118f655aa71
       size: 100
   install:
     cmd: python3 -m venv venv && . venv/bin/activate && pip install -U pip wheel setuptools

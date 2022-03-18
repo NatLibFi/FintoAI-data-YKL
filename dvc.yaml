@@ -7,14 +7,14 @@ stages:
     - venv-installed:
         cache: false
   loadvoc-fi:
-    cmd: venv/bin/annif loadvoc ykl-omikuji-parabel-fi corpora/ykl-classes.tsv
+    cmd: annif loadvoc ykl-omikuji-parabel-fi corpora/ykl-classes.tsv
     deps:
     - venv-installed
     - corpora/ykl-classes.tsv
     outs:
     - data/vocabs/ykl-fi
   train-omikuji-parabel-fi:
-    cmd: venv/bin/annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    cmd: annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
     deps:
     - venv-installed
     - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
@@ -22,7 +22,7 @@ stages:
     outs:
     - data/projects/ykl-omikuji-parabel-fi
   eval-omikuji-parabel-fi:
-    cmd: venv/bin/annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
+    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
       reports/test-omikuji-parabel-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - venv-installed
