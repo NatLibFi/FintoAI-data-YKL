@@ -34,3 +34,24 @@ stages:
     metrics:
     - reports/test-omikuji-parabel-fi.json:
         cache: false
+  train-omikuji-bonsai-fi:
+    cmd: annif train ykl-omikuji-bonsai-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    params:
+    - projects.toml:
+      - ykl-omikuji-bonsai-fi
+    deps:
+    - venv-installed
+    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    - data/vocabs/ykl-fi
+    outs:
+    - data/projects/ykl-omikuji-bonsai-fi
+  eval-omikuji-bonsai-fi:
+    cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG --metrics-file
+      reports/test-omikuji-bonsai-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    deps:
+    - venv-installed
+    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    - data/projects/ykl-omikuji-bonsai-fi
+    metrics:
+    - reports/test-omikuji-bonsai-fi.json:
+        cache: false

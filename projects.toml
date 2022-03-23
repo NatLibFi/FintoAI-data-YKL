@@ -6,3 +6,15 @@ analyzer="voikko(fi)"
 vocab="ykl-fi"
 ngram=1
 min_df=1
+
+[ykl-omikuji-bonsai-fi]
+name="YKL Omikuji Bonsai Finnish"
+language="fi"
+backend="omikuji"
+cluster_balanced = "False"
+cluster_k = 100
+max_depth = 3
+analyzer="voikko(fi)"
+vocab="ykl-fi"
+ngram=1
+min_df=1

@@ -71,3 +71,52 @@ stages:
     - path: venv-installed
       md5: c5a0f860381968fb21a3086f9b48068a
       size: 42
+  train-omikuji-bonsai-fi:
+    cmd: annif train ykl-omikuji-bonsai-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    deps:
+    - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+      md5: 39070df2de1ed470ef21dca2d0a5554d
+      size: 44106743
+    - path: data/vocabs/ykl-fi
+      md5: 018083fe7ff2a658bb21414472563674.dir
+      size: 766171
+      nfiles: 3
+    - path: venv-installed
+      md5: c5a0f860381968fb21a3086f9b48068a
+      size: 42
+    params:
+      projects.toml:
+        ykl-omikuji-bonsai-fi:
+          name: YKL Omikuji Bonsai Finnish
+          language: fi
+          backend: omikuji
+          cluster_balanced: 'False'
+          cluster_k: 100
+          max_depth: 3
+          analyzer: voikko(fi)
+          vocab: ykl-fi
+          ngram: 1
+          min_df: 1
+    outs:
+    - path: data/projects/ykl-omikuji-bonsai-fi
+      md5: 3435c76ef9e8981eb61de97e98d2ec4a.dir
+      size: 133243555
+      nfiles: 6
+  eval-omikuji-bonsai-fi:
+    cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG --metrics-file
+      reports/test-omikuji-bonsai-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    deps:
+    - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+      md5: 9c26fd86d43db53bedef1c0a38f08fc8
+      size: 3708388
+    - path: data/projects/ykl-omikuji-bonsai-fi
+      md5: 3435c76ef9e8981eb61de97e98d2ec4a.dir
+      size: 133243555
+      nfiles: 6
+    - path: venv-installed
+      md5: c5a0f860381968fb21a3086f9b48068a
+      size: 42
+    outs:
+    - path: reports/test-omikuji-bonsai-fi.json
+      md5: 375156fa6065464a31c4f840d13f6991
+      size: 100
