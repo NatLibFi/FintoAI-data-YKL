@@ -27,10 +27,20 @@ stages:
     - path: venv-installed
       md5: c5a0f860381968fb21a3086f9b48068a
       size: 42
+    params:
+      projects.toml:
+        ykl-omikuji-parabel-fi:
+          name: YKL Omikuji Parabel Finnish
+          language: fi
+          backend: omikuji
+          analyzer: voikko(fi)
+          vocab: ykl-fi
+          ngram: 1
+          min_df: 1
     outs:
     - path: data/projects/ykl-omikuji-parabel-fi
-      md5: bd39ed99ed0b01a3da90b3ea2e686c8f.dir
-      size: 138494547
+      md5: 3671fc994a65d65c4e6325c1a392da38.dir
+      size: 138255989
       nfiles: 6
   eval-omikuji-parabel-fi:
     cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
@@ -40,15 +50,15 @@ stages:
       md5: 9c26fd86d43db53bedef1c0a38f08fc8
       size: 3708388
     - path: data/projects/ykl-omikuji-parabel-fi
-      md5: bd39ed99ed0b01a3da90b3ea2e686c8f.dir
-      size: 138494547
+      md5: 3671fc994a65d65c4e6325c1a392da38.dir
+      size: 138255989
       nfiles: 6
     - path: venv-installed
       md5: c5a0f860381968fb21a3086f9b48068a
       size: 42
     outs:
     - path: reports/test-omikuji-parabel-fi.json
-      md5: 5e4863e754ff7378dd05a118f655aa71
+      md5: 0bd88e36adb0aa0b295db072bf77b71a
       size: 100
   install:
     cmd: python3 -m venv venv && . venv/bin/activate && pip install -U pip wheel setuptools

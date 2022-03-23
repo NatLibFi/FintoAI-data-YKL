@@ -15,6 +15,9 @@ stages:
     - data/vocabs/ykl-fi
   train-omikuji-parabel-fi:
     cmd: annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    params:
+    - projects.toml:
+      - ykl-omikuji-parabel-fi
     deps:
     - venv-installed
     - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
@@ -28,5 +31,6 @@ stages:
     - venv-installed
     - corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     - data/projects/ykl-omikuji-parabel-fi
-    outs:
-    - reports/test-omikuji-parabel-fi.json
+    metrics:
+    - reports/test-omikuji-parabel-fi.json:
+        cache: false

@@ -4,3 +4,5 @@ language="fi"
 backend="omikuji"
 analyzer="voikko(fi)"
 vocab="ykl-fi"
+ngram=1
+min_df=1
