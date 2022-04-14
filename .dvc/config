@@ -1,5 +1,5 @@
 [cache]
-    dir = /data/dvc-cache/FintoAI-data-YKL
+    dir = /data/dvc-cache
     shared = group
     type = symlink
 [core]
