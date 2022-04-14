@@ -155,3 +155,48 @@ stages:
       md5: 0bff12c6765f00fd34d6a043fdfc1a64.dir
       size: 3598553339
       nfiles: 2
+  train-ykl-svc-fi:
+    cmd: annif train ykl-svc-fi corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    deps:
+    - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+      md5: 39070df2de1ed470ef21dca2d0a5554d
+      size: 44106743
+    - path: data/vocabs/ykl-fi
+      md5: 018083fe7ff2a658bb21414472563674.dir
+      size: 766171
+      nfiles: 3
+    - path: venv-installed
+      md5: c5a0f860381968fb21a3086f9b48068a
+      size: 42
+    params:
+      projects.toml:
+        ykl-svc-fi:
+          name: SVC Fin
+          language: fi
+          backend: svc
+          analyzer: voikko(fi)
+          limit: 100
+          vocab: ykl-fi
+    outs:
+    - path: data/projects/ykl-svc-fi
+      md5: e60aa5585679a2ad97bb9d0c0cc466eb.dir
+      size: 169038467
+      nfiles: 2
+  eval-ykl-svc-fi:
+    cmd: annif eval ykl-svc-fi -m Precision@1 -m NDCG --metrics-file reports/test-ykl-svc-fi.json
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    deps:
+    - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+      md5: 9c26fd86d43db53bedef1c0a38f08fc8
+      size: 3708388
+    - path: data/projects/ykl-svc-fi
+      md5: e60aa5585679a2ad97bb9d0c0cc466eb.dir
+      size: 169038467
+      nfiles: 2
+    - path: venv-installed
+      md5: c5a0f860381968fb21a3086f9b48068a
+      size: 42
+    outs:
+    - path: reports/test-ykl-svc-fi.json
+      md5: 4b61ee70eb78ea654883f3d157418a51
+      size: 99

@@ -34,3 +34,11 @@ loss="hs"
 limit=1000
 chunksize=24
 vocab="ykl-fi"
+
+[ykl-svc-fi]
+name="SVC Fin"
+language="fi"
+backend="svc"
+analyzer="voikko(fi)"
+limit=100
+vocab="ykl-fi"

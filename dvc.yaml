@@ -76,3 +76,25 @@ stages:
     metrics:
     - reports/test-fasttext-fi.json:
         cache: false
+  train-ykl-svc-fi:
+    cmd: annif train ykl-svc-fi corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    params:
+    - projects.toml:
+      - ykl-svc-fi
+    deps:
+    - venv-installed
+    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    - data/vocabs/ykl-fi
+    outs:
+    - data/projects/ykl-svc-fi
+  eval-ykl-svc-fi:
+    cmd: annif eval ykl-svc-fi -m Precision@1 -m NDCG --metrics-file
+      reports/test-ykl-svc-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    deps:
+    - venv-installed
+    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    - data/projects/ykl-svc-fi
+    metrics:
+    - reports/test-ykl-svc-fi.json:
+        cache: false
+
