@@ -120,3 +120,38 @@ stages:
     - path: reports/test-omikuji-bonsai-fi.json
       md5: 375156fa6065464a31c4f840d13f6991
       size: 100
+  train-ykl-fasttext-fi:
+    cmd: annif train ykl-fasttext-fi corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    deps:
+    - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+      md5: 39070df2de1ed470ef21dca2d0a5554d
+      size: 44106743
+    - path: data/vocabs/ykl-fi
+      md5: 018083fe7ff2a658bb21414472563674.dir
+      size: 766171
+      nfiles: 3
+    - path: venv-installed
+      md5: c5a0f860381968fb21a3086f9b48068a
+      size: 42
+    params:
+      projects.toml:
+        ykl-fasttext-fi:
+          name: YKL fastText Finnish
+          language: fi
+          backend: fasttext
+          analyzer: voikko(fi)
+          dim: 430
+          lr: 0.74
+          epoch: 75
+          minn: 4
+          maxn: 7
+          minCount: 3
+          loss: hs
+          limit: 1000
+          chunksize: 24
+          vocab: ykl-fi
+    outs:
+    - path: data/projects/ykl-fasttext-fi
+      md5: 0bff12c6765f00fd34d6a043fdfc1a64.dir
+      size: 3598553339
+      nfiles: 2

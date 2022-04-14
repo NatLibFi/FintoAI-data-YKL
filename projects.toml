@@ -18,3 +18,19 @@ analyzer="voikko(fi)"
 vocab="ykl-fi"
 ngram=1
 min_df=1
+
+[ykl-fasttext-fi]
+name="YKL fastText Finnish"
+language="fi"
+backend="fasttext"
+analyzer="voikko(fi)"
+dim=430
+lr=0.74
+epoch=75
+minn=4
+maxn=7
+minCount=3
+loss="hs"
+limit=1000
+chunksize=24
+vocab="ykl-fi"

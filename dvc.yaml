@@ -55,3 +55,24 @@ stages:
     metrics:
     - reports/test-omikuji-bonsai-fi.json:
         cache: false
+  train-ykl-fasttext-fi:
+    cmd: annif train ykl-fasttext-fi corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    params:
+    - projects.toml:
+      - ykl-fasttext-fi
+    deps:
+    - venv-installed
+    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    - data/vocabs/ykl-fi
+    outs:
+    - data/projects/ykl-fasttext-fi
+  eval-fasttext-fi:
+    cmd: annif eval ykl-fasttext-fi -m Precision@1 -m NDCG --metrics-file
+      reports/test-fasttext-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    deps:
+    - venv-installed
+    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    - data/projects/ykl-fasttext-fi
+    metrics:
+    - reports/test-fasttext-fi.json:
+        cache: false

@@ -4,3 +4,6 @@
     type = symlink
 [core]
     autostage = true
+    remote = kj-kk
+['remote "kj-kk"']
+    url = /data/dvc-storage
