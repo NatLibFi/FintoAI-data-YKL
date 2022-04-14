@@ -200,3 +200,21 @@ stages:
     - path: reports/test-ykl-svc-fi.json
       md5: 4b61ee70eb78ea654883f3d157418a51
       size: 99
+  eval-ykl-fasttext-fi:
+    cmd: annif eval ykl-fasttext-fi -m Precision@1 -m NDCG --metrics-file reports/test-ykl-fasttext-fi.json
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    deps:
+    - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+      md5: 9c26fd86d43db53bedef1c0a38f08fc8
+      size: 3708388
+    - path: data/projects/ykl-fasttext-fi
+      md5: 0bff12c6765f00fd34d6a043fdfc1a64.dir
+      size: 3598553339
+      nfiles: 2
+    - path: venv-installed
+      md5: c5a0f860381968fb21a3086f9b48068a
+      size: 42
+    outs:
+    - path: reports/test-ykl-fasttext-fi.json
+      md5: a27f77deed2db8edf5e21f31b422f239
+      size: 100

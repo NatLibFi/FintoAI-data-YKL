@@ -66,15 +66,15 @@ stages:
     - data/vocabs/ykl-fi
     outs:
     - data/projects/ykl-fasttext-fi
-  eval-fasttext-fi:
+  eval-ykl-fasttext-fi:
     cmd: annif eval ykl-fasttext-fi -m Precision@1 -m NDCG --metrics-file
-      reports/test-fasttext-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+      reports/test-ykl-fasttext-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - venv-installed
     - corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     - data/projects/ykl-fasttext-fi
     metrics:
-    - reports/test-fasttext-fi.json:
+    - reports/test-ykl-fasttext-fi.json:
         cache: false
   train-ykl-svc-fi:
     cmd: annif train ykl-svc-fi corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
