@@ -1,0 +1,9 @@
+md5: 0e5d81c230a4e2a97a74e95e045329ee
+deps:
+- md5: e3a0551f54e0cbd6deb3ccf150817e3f
+  size: 72283
+  path: /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-eng-test.tsv
+outs:
+- md5: e3a0551f54e0cbd6deb3ccf150817e3f
+  size: 72283
+  path: kvesit-ykl-eng-test.tsv

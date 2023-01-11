@@ -1,3 +1,9 @@
 /kvesit-ykl-fin-train.tsv
 /kvesit-ykl-fin-validate.tsv
 /kvesit-ykl-fin-test.tsv
+/kvesit-ykl-eng-train.tsv
+/kvesit-ykl-eng-validate.tsv
+/kvesit-ykl-eng-test.tsv
+/kvesit-ykl-swe-train.tsv
+/kvesit-ykl-swe-validate.tsv
+/kvesit-ykl-swe-test.tsv
