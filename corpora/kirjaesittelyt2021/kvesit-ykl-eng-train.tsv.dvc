@@ -1,9 +1,9 @@
-md5: bf0c2780a91cdb5aafd3a441b01f27dc
+md5: 5d8b5c26e73a791111406a8544b92381
 deps:
-- md5: b3655801ba2d932834a482b7b1989ad8
-  size: 1848082
+- md5: 87548d6f8f9a8185dc870e8112668c87
+  size: 1730632
   path: /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-eng-train.tsv
 outs:
-- md5: b3655801ba2d932834a482b7b1989ad8
-  size: 1848082
+- md5: 87548d6f8f9a8185dc870e8112668c87
+  size: 1730632
   path: kvesit-ykl-eng-train.tsv
