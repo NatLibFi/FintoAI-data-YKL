@@ -167,7 +167,8 @@ stages:
       nfiles: 6
   eval-omikuji-bonsai@0:
     cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+      reports/test-omikuji-bonsai-fi.json --results-file reports/test-omikuji-bonsai-fi.csv
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
       md5: 9f8d094ae71ec68c5d40dde46d991e1f
@@ -180,6 +181,9 @@ stages:
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
+    - path: reports/test-omikuji-bonsai-fi.csv
+      md5: 4a67080cae2fa17eea29c6d285d2ab13
+      size: 237311
     - path: reports/test-omikuji-bonsai-fi.json
       md5: d37d31e45ada5cc3d6d576e98303d002
       size: 100
@@ -247,7 +251,8 @@ stages:
       nfiles: 6
   eval-omikuji-bonsai@2:
     cmd: annif eval ykl-omikuji-bonsai-en -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-en.json corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
+      reports/test-omikuji-bonsai-en.json --results-file reports/test-omikuji-bonsai-en.csv
+      corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
       md5: bc7f924d84a20e9ab91e2600fd2415ec
@@ -260,6 +265,9 @@ stages:
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
+    - path: reports/test-omikuji-bonsai-en.csv
+      md5: 20fc2f280e83dadf85e4916a7147eb8f
+      size: 212539
     - path: reports/test-omikuji-bonsai-en.json
       md5: b98ab09fcc2867d7c9dbac5bca2881eb
       size: 99
@@ -293,7 +301,8 @@ stages:
       nfiles: 6
   eval-omikuji-parabel@0:
     cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+      reports/test-omikuji-parabel-fi.json --results-file reports/test-omikuji-parabel-fi.csv
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
       md5: 9f8d094ae71ec68c5d40dde46d991e1f
@@ -306,6 +315,9 @@ stages:
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
+    - path: reports/test-omikuji-parabel-fi.csv
+      md5: 851cc25fc779f90c55b316284529854a
+      size: 236934
     - path: reports/test-omikuji-parabel-fi.json
       md5: fd32bd8f22d22e5d7ff96cf4247ae08f
       size: 100
@@ -339,7 +351,8 @@ stages:
       nfiles: 6
   eval-omikuji-parabel@1:
     cmd: annif eval ykl-omikuji-parabel-sv -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-sv.json corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
+      reports/test-omikuji-parabel-sv.json --results-file reports/test-omikuji-parabel-sv.csv
+      corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
       md5: a9177ace2f0d1dffa6a424fccdf04b37
@@ -352,6 +365,9 @@ stages:
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
+    - path: reports/test-omikuji-parabel-sv.csv
+      md5: 243a9d0076336133843f8f2560fcde29
+      size: 214240
     - path: reports/test-omikuji-parabel-sv.json
       md5: 213446c44b44c37f3bd866880f8b5e6d
       size: 87
@@ -385,7 +401,8 @@ stages:
       nfiles: 6
   eval-omikuji-parabel@2:
     cmd: annif eval ykl-omikuji-parabel-en -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-en.json corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
+      reports/test-omikuji-parabel-en.json --results-file reports/test-omikuji-parabel-en.csv
+      corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
       md5: bc7f924d84a20e9ab91e2600fd2415ec
@@ -398,12 +415,16 @@ stages:
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
+    - path: reports/test-omikuji-parabel-en.csv
+      md5: dd78c9e6caafbba319e72326646fcf35
+      size: 212596
     - path: reports/test-omikuji-parabel-en.json
       md5: 7c8c2da8e475b00db9624f978382325a
       size: 100
   eval-omikuji-bonsai@1:
     cmd: annif eval ykl-omikuji-bonsai-sv -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-sv.json corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
+      reports/test-omikuji-bonsai-sv.json --results-file reports/test-omikuji-bonsai-sv.csv
+      corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
       md5: a9177ace2f0d1dffa6a424fccdf04b37
@@ -416,6 +437,9 @@ stages:
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
+    - path: reports/test-omikuji-bonsai-sv.csv
+      md5: 96822c4cb80f8f03d0437f92bfe8e8fc
+      size: 214227
     - path: reports/test-omikuji-bonsai-sv.json
       md5: e616e504a70398b86edd502b9b14527c
       size: 86

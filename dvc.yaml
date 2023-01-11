@@ -41,12 +41,17 @@ stages:
       - lang2: en
         lang3: eng
     do:
-      cmd: annif eval ykl-omikuji-parabel-${item.lang2} -j 8 -m Precision@1 -m NDCG --metrics-file
-        reports/test-omikuji-parabel-${item.lang2}.json corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      cmd: annif eval ykl-omikuji-parabel-${item.lang2} -j 8 -m Precision@1 -m NDCG
+        --metrics-file reports/test-omikuji-parabel-${item.lang2}.json
+        --results-file reports/test-omikuji-parabel-${item.lang2}.csv
+        corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
       deps:
       - venv-installed
       - corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
       - data/projects/ykl-omikuji-parabel-${item.lang2}
+      outs:
+      - reports/test-omikuji-parabel-${item.lang2}.csv:
+          cache: false
       metrics:
       - reports/test-omikuji-parabel-${item.lang2}.json:
           cache: false
@@ -78,12 +83,17 @@ stages:
       - lang2: en
         lang3: eng
     do:
-      cmd: annif eval ykl-omikuji-bonsai-${item.lang2} -j 8 -m Precision@1 -m NDCG --metrics-file
-        reports/test-omikuji-bonsai-${item.lang2}.json corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      cmd: annif eval ykl-omikuji-bonsai-${item.lang2} -j 8 -m Precision@1 -m NDCG
+        --metrics-file reports/test-omikuji-bonsai-${item.lang2}.json
+        --results-file reports/test-omikuji-bonsai-${item.lang2}.csv
+        corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
       deps:
       - venv-installed
       - corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
       - data/projects/ykl-omikuji-bonsai-${item.lang2}
+      outs:
+      - reports/test-omikuji-bonsai-${item.lang2}.csv:
+          cache: false
       metrics:
       - reports/test-omikuji-bonsai-${item.lang2}.json:
           cache: false
