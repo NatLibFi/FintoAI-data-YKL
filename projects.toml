@@ -18,3 +18,45 @@ analyzer="voikko(fi)"
 vocab="ykl"
 ngram=1
 min_df=1
+
+[ykl-omikuji-parabel-sv]
+name="YKL Omikuji Parabel Swedish"
+language="sv"
+backend="omikuji"
+analyzer="snowball(swedish)"
+vocab="ykl"
+ngram=1
+min_df=1
+
+[ykl-omikuji-bonsai-sv]
+name="YKL Omikuji Bonsai Swedish"
+language="sv"
+backend="omikuji"
+cluster_balanced = "False"
+cluster_k = 100
+max_depth = 3
+analyzer="snowball(swedish)"
+vocab="ykl"
+ngram=1
+min_df=1
+
+[ykl-omikuji-parabel-en]
+name="YKL Omikuji Parabel English"
+language="en"
+backend="omikuji"
+analyzer="snowball(english)"
+vocab="ykl"
+ngram=1
+min_df=1
+
+[ykl-omikuji-bonsai-en]
+name="YKL Omikuji Bonsai English"
+language="en"
+backend="omikuji"
+cluster_balanced = "False"
+cluster_k = 100
+max_depth = 3
+analyzer="snowball(english)"
+vocab="ykl"
+ngram=1
+min_df=1

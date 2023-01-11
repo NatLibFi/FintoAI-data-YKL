@@ -13,45 +13,77 @@ stages:
     - corpora/ykl-skos.ttl
     outs:
     - data/vocabs/ykl
-  train-omikuji-parabel-fi:
-    cmd: annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-    params:
-    - projects.toml:
-      - ykl-omikuji-parabel-fi
-    deps:
-    - venv-installed
-    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-    - data/vocabs/ykl
-    outs:
-    - data/projects/ykl-omikuji-parabel-fi
-  eval-omikuji-parabel-fi:
-    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
-    deps:
-    - venv-installed
-    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
-    - data/projects/ykl-omikuji-parabel-fi
-    metrics:
-    - reports/test-omikuji-parabel-fi.json:
-        cache: false
-  train-omikuji-bonsai-fi:
-    cmd: annif train ykl-omikuji-bonsai-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-    params:
-    - projects.toml:
-      - ykl-omikuji-bonsai-fi
-    deps:
-    - venv-installed
-    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-    - data/vocabs/ykl
-    outs:
-    - data/projects/ykl-omikuji-bonsai-fi
-  eval-omikuji-bonsai-fi:
-    cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
-    deps:
-    - venv-installed
-    - corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
-    - data/projects/ykl-omikuji-bonsai-fi
-    metrics:
-    - reports/test-omikuji-bonsai-fi.json:
-        cache: false
+  train-omikuji-parabel:
+    foreach:
+      - lang2: fi
+        lang3: fin
+      - lang2: sv
+        lang3: swe
+      - lang2: en
+        lang3: eng
+    do:
+      cmd: annif train ykl-omikuji-parabel-${item.lang2} -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
+      params:
+      - projects.toml:
+        - ykl-omikuji-parabel-${item.lang2}
+      deps:
+      - venv-installed
+      - corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
+      - data/vocabs/ykl
+      outs:
+      - data/projects/ykl-omikuji-parabel-${item.lang2}
+  eval-omikuji-parabel:
+    foreach:
+      - lang2: fi
+        lang3: fin
+      - lang2: sv
+        lang3: swe
+      - lang2: en
+        lang3: eng
+    do:
+      cmd: annif eval ykl-omikuji-parabel-${item.lang2} -j 8 -m Precision@1 -m NDCG --metrics-file
+        reports/test-omikuji-parabel-${item.lang2}.json corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      deps:
+      - venv-installed
+      - corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      - data/projects/ykl-omikuji-parabel-${item.lang2}
+      metrics:
+      - reports/test-omikuji-parabel-${item.lang2}.json:
+          cache: false
+  train-omikuji-bonsai:
+    foreach:
+      - lang2: fi
+        lang3: fin
+      - lang2: sv
+        lang3: swe
+      - lang2: en
+        lang3: eng
+    do:
+      cmd: annif train ykl-omikuji-bonsai-${item.lang2} -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
+      params:
+      - projects.toml:
+        - ykl-omikuji-bonsai-${item.lang2}
+      deps:
+      - venv-installed
+      - corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
+      - data/vocabs/ykl
+      outs:
+      - data/projects/ykl-omikuji-bonsai-${item.lang2}
+  eval-omikuji-bonsai:
+    foreach:
+      - lang2: fi
+        lang3: fin
+      - lang2: sv
+        lang3: swe
+      - lang2: en
+        lang3: eng
+    do:
+      cmd: annif eval ykl-omikuji-bonsai-${item.lang2} -j 8 -m Precision@1 -m NDCG --metrics-file
+        reports/test-omikuji-bonsai-${item.lang2}.json corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      deps:
+      - venv-installed
+      - corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      - data/projects/ykl-omikuji-bonsai-${item.lang2}
+      metrics:
+      - reports/test-omikuji-bonsai-${item.lang2}.json:
+          cache: false
