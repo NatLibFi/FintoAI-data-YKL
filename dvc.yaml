@@ -6,13 +6,13 @@ stages:
     outs:
     - venv-installed:
         cache: false
-  loadvoc-fi:
-    cmd: annif loadvoc ykl-omikuji-parabel-fi corpora/ykl-classes.tsv
+  load-vocab:
+    cmd: annif load-vocab ykl corpora/ykl-skos.ttl
     deps:
     - venv-installed
-    - corpora/ykl-classes.tsv
+    - corpora/ykl-skos.ttl
     outs:
-    - data/vocabs/ykl-fi
+    - data/vocabs/ykl
   train-omikuji-parabel-fi:
     cmd: annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
     params:
@@ -21,7 +21,7 @@ stages:
     deps:
     - venv-installed
     - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-    - data/vocabs/ykl-fi
+    - data/vocabs/ykl
     outs:
     - data/projects/ykl-omikuji-parabel-fi
   eval-omikuji-parabel-fi:
@@ -42,7 +42,7 @@ stages:
     deps:
     - venv-installed
     - corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-    - data/vocabs/ykl-fi
+    - data/vocabs/ykl
     outs:
     - data/projects/ykl-omikuji-bonsai-fi
   eval-omikuji-bonsai-fi:

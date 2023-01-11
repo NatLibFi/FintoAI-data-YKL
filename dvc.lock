@@ -20,9 +20,9 @@ stages:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
       md5: ffa2c09b76a8a5370dbe71540da8c0ff
       size: 38164190
-    - path: data/vocabs/ykl-fi
-      md5: 680732b8de9b5108536ccea40462734e.dir
-      size: 764449
+    - path: data/vocabs/ykl
+      md5: 3b9896e0ea6b1a4fa9820f015831fd93.dir
+      size: 6503819
       nfiles: 3
     - path: venv-installed
       md5: 2e6baa8289dac9e06cb525999eb39a70
@@ -34,13 +34,13 @@ stages:
           language: fi
           backend: omikuji
           analyzer: voikko(fi)
-          vocab: ykl-fi
+          vocab: ykl
           ngram: 1
           min_df: 1
     outs:
     - path: data/projects/ykl-omikuji-parabel-fi
-      md5: 3ed791ef021b0b6848e67ff68d21498d.dir
-      size: 119342063
+      md5: e506a5b142c024d089a449b9ab99da7c.dir
+      size: 119198246
       nfiles: 6
   eval-omikuji-parabel-fi:
     cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
@@ -50,15 +50,15 @@ stages:
       md5: e4497d02e1c12d30de314f25ac5c5a8e
       size: 3289456
     - path: data/projects/ykl-omikuji-parabel-fi
-      md5: 3ed791ef021b0b6848e67ff68d21498d.dir
-      size: 119342063
+      md5: e506a5b142c024d089a449b9ab99da7c.dir
+      size: 119198246
       nfiles: 6
     - path: venv-installed
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
     - path: reports/test-omikuji-parabel-fi.json
-      md5: d4241383761ec497e1c00ecbf91f141b
+      md5: e0079ca11936a9627c9ee5b4a23e4c48
       size: 100
   install:
     cmd: python3 -m venv venv && . venv/bin/activate && pip install -U pip wheel setuptools
@@ -77,9 +77,9 @@ stages:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
       md5: ffa2c09b76a8a5370dbe71540da8c0ff
       size: 38164190
-    - path: data/vocabs/ykl-fi
-      md5: 680732b8de9b5108536ccea40462734e.dir
-      size: 764449
+    - path: data/vocabs/ykl
+      md5: 3b9896e0ea6b1a4fa9820f015831fd93.dir
+      size: 6503819
       nfiles: 3
     - path: venv-installed
       md5: 2e6baa8289dac9e06cb525999eb39a70
@@ -94,13 +94,13 @@ stages:
           cluster_k: 100
           max_depth: 3
           analyzer: voikko(fi)
-          vocab: ykl-fi
+          vocab: ykl
           ngram: 1
           min_df: 1
     outs:
     - path: data/projects/ykl-omikuji-bonsai-fi
-      md5: ed4104f29b03dc355b4c3b7d55b773d1.dir
-      size: 115229283
+      md5: 1166661a5b68a9c155a57d40592d11eb.dir
+      size: 114643724
       nfiles: 6
   eval-omikuji-bonsai-fi:
     cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG --metrics-file
@@ -110,13 +110,27 @@ stages:
       md5: e4497d02e1c12d30de314f25ac5c5a8e
       size: 3289456
     - path: data/projects/ykl-omikuji-bonsai-fi
-      md5: ed4104f29b03dc355b4c3b7d55b773d1.dir
-      size: 115229283
+      md5: 1166661a5b68a9c155a57d40592d11eb.dir
+      size: 114643724
       nfiles: 6
     - path: venv-installed
       md5: 2e6baa8289dac9e06cb525999eb39a70
       size: 42
     outs:
     - path: reports/test-omikuji-bonsai-fi.json
-      md5: d9e06bdec6caec559819732920d68aa7
+      md5: da9fafaa27f186fff29cb24b505c2fa2
       size: 100
+  load-vocab:
+    cmd: annif load-vocab ykl corpora/ykl-skos.ttl
+    deps:
+    - path: corpora/ykl-skos.ttl
+      md5: fea11c863134c9e8379ea52e0f31e28a
+      size: 3901929
+    - path: venv-installed
+      md5: 2e6baa8289dac9e06cb525999eb39a70
+      size: 42
+    outs:
+    - path: data/vocabs/ykl
+      md5: 3b9896e0ea6b1a4fa9820f015831fd93.dir
+      size: 6503819
+      nfiles: 3

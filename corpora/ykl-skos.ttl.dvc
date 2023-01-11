@@ -1,0 +1,9 @@
+md5: 58583831f2aec7cdb823806a91d006da
+deps:
+- md5: fea11c863134c9e8379ea52e0f31e28a
+  size: 3901929
+  path: /data/Annif-corpora/vocab/ykl-skos.ttl
+outs:
+- md5: fea11c863134c9e8379ea52e0f31e28a
+  size: 3901929
+  path: ykl-skos.ttl

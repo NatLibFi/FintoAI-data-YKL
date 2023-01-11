@@ -3,7 +3,7 @@ name="YKL Omikuji Parabel Finnish"
 language="fi"
 backend="omikuji"
 analyzer="voikko(fi)"
-vocab="ykl-fi"
+vocab="ykl"
 ngram=1
 min_df=1
 
@@ -15,6 +15,6 @@ cluster_balanced = "False"
 cluster_k = 100
 max_depth = 3
 analyzer="voikko(fi)"
-vocab="ykl-fi"
+vocab="ykl"
 ngram=1
 min_df=1
