@@ -7,7 +7,7 @@ stages:
     - venv-installed:
         cache: false
   load-vocab:
-    cmd: annif load-vocab ykl corpora/ykl-skos.ttl
+    cmd: venv/bin/annif load-vocab ykl corpora/ykl-skos.ttl
     deps:
     - venv-installed
     - corpora/ykl-skos.ttl
@@ -22,7 +22,7 @@ stages:
       - lang2: en
         lang3: eng
     do:
-      cmd: annif train ykl-omikuji-parabel-${item.lang2} -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
+      cmd: venv/bin/annif train ykl-omikuji-parabel-${item.lang2} -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
       params:
       - projects.toml:
         - ykl-omikuji-parabel-${item.lang2}
@@ -41,7 +41,7 @@ stages:
       - lang2: en
         lang3: eng
     do:
-      cmd: annif eval ykl-omikuji-parabel-${item.lang2} -j 8 -m Precision@1 -m NDCG
+      cmd: venv/bin/annif eval ykl-omikuji-parabel-${item.lang2} -j 8 -m Precision@1 -m NDCG
         --metrics-file reports/test-omikuji-parabel-${item.lang2}.json
         --results-file reports/test-omikuji-parabel-${item.lang2}.csv
         corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
@@ -64,7 +64,7 @@ stages:
       - lang2: en
         lang3: eng
     do:
-      cmd: annif train ykl-omikuji-bonsai-${item.lang2} -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
+      cmd: venv/bin/annif train ykl-omikuji-bonsai-${item.lang2} -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-train.tsv
       params:
       - projects.toml:
         - ykl-omikuji-bonsai-${item.lang2}
@@ -83,7 +83,7 @@ stages:
       - lang2: en
         lang3: eng
     do:
-      cmd: annif eval ykl-omikuji-bonsai-${item.lang2} -j 8 -m Precision@1 -m NDCG
+      cmd: venv/bin/annif eval ykl-omikuji-bonsai-${item.lang2} -j 8 -m Precision@1 -m NDCG
         --metrics-file reports/test-omikuji-bonsai-${item.lang2}.json
         --results-file reports/test-omikuji-bonsai-${item.lang2}.csv
         corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
