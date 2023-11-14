@@ -6,6 +6,7 @@ analyzer="voikko(fi)"
 vocab="ykl"
 ngram=1
 min_df=1
+access="hidden"
 
 [ykl-omikuji-bonsai-fi]
 name="YKL Omikuji Bonsai Finnish"
@@ -18,6 +19,7 @@ analyzer="voikko(fi)"
 vocab="ykl"
 ngram=1
 min_df=1
+access="hidden"
 
 [ykl-omikuji-parabel-sv]
 name="YKL Omikuji Parabel Swedish"
@@ -27,6 +29,7 @@ analyzer="snowball(swedish)"
 vocab="ykl"
 ngram=1
 min_df=1
+access="hidden"
 
 [ykl-omikuji-bonsai-sv]
 name="YKL Omikuji Bonsai Swedish"
@@ -39,6 +42,7 @@ analyzer="snowball(swedish)"
 vocab="ykl"
 ngram=1
 min_df=1
+access="hidden"
 
 [ykl-omikuji-parabel-en]
 name="YKL Omikuji Parabel English"
@@ -48,6 +52,7 @@ analyzer="snowball(english)"
 vocab="ykl"
 ngram=1
 min_df=1
+access="hidden"
 
 [ykl-omikuji-bonsai-en]
 name="YKL Omikuji Bonsai English"
@@ -60,3 +65,25 @@ analyzer="snowball(english)"
 vocab="ykl"
 ngram=1
 min_df=1
+access="hidden"
+
+[ykl-fi]
+name="YKL suomi"
+language="fi"
+backend="ensemble"
+vocab="ykl"
+sources="ykl-omikuji-parabel-fi,ykl-omikuji-bonsai-fi"
+
+[ykl-sv]
+name="KAB svenska"
+language="sv"
+backend="ensemble"
+vocab="ykl"
+sources="ykl-omikuji-parabel-sv,ykl-omikuji-bonsai-sv"
+
+[ykl-en]
+name="PLC English"
+language="en"
+backend="ensemble"
+vocab="ykl"
+sources="ykl-omikuji-parabel-en,ykl-omikuji-bonsai-en"

@@ -485,9 +485,9 @@ http://urn.fi/URN:NBN:fi:au:ykl:47.6	Moldova	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.111	Turkiet	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.112	Cypern	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.114	Israel. Palestina	0	0	2	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48.132	Indien	0	0	2	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48.14	Sydostasien	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48.183	Kina	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:48.132	Indien	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:48.14	Sydostasien	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:48.183	Kina	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.184	Japan	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.25	Västafrika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.26	Centralafrika	0	0	0	0	0.0	0.0	0.0
@@ -502,7 +502,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:48.385	Chile	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.386	Argentina	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.388	Brasilien	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.51	Australien	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48.62	Sydliga polarländerna. Antarktis	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:48.62	Sydliga polarländerna. Antarktis	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:51.3	Analys	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:53.11	Relativitetsteorin	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:53.13	Kvantteori. Kvantmekanik	0	0	0	0	0.0	0.0	0.0
@@ -771,7 +771,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:89.48	Nederländska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.54	Amerikansk engelska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.61	Franska	1	1	15	0	0.0625	1.0	0.11764705882352941
 http://urn.fi/URN:NBN:fi:au:ykl:89.62	Italienska	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.63	Spanska	1	1	9	0	0.1	1.0	0.18181818181818182
+http://urn.fi/URN:NBN:fi:au:ykl:89.63	Spanska	1	1	11	0	0.08333333333333333	1.0	0.15384615384615385
 http://urn.fi/URN:NBN:fi:au:ykl:89.64	Portugisiska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.65	Rumänska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.71	Ryska	0	0	0	0	0.0	0.0	0.0
@@ -865,7 +865,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:29.7	Islam och islamisk mytologi	0	0	6	0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:31.32	Allmän finländsk statistik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:32.1826	Finlands riksdagshandlingar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.041	Kommittébetänkanden	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:37.13	Arbetarskydd och ergonomi på olika områden	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:37.13	Arbetarskydd och ergonomi på olika områden	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.293	Samhällsvetenskapernas didaktik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.71	Scoutrörelsen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:42.1	Egentliga Finland	0	0	0	0	0.0	0.0	0.0
@@ -878,7 +878,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:45.72	Nordirland	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:46.4	Portugal	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:47.14	Karelska republiken	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:47.3	Polen	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48.21	Nordafrika	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:48.21	Nordafrika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.27	Östafrika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.313	Kanada	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.356	Karibien	0	0	0	0	0.0	0.0	0.0
@@ -927,12 +927,12 @@ http://urn.fi/URN:NBN:fi:au:ykl:74.9131	Renässansens tecknings- och målarkonst
 http://urn.fi/URN:NBN:fi:au:ykl:74.9132	Barockens och rokokons tecknings- och målarkonst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.9133	1800-talets tecknings- och målarkonst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.9134	Nutidens tecknings- och målarkonst	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:74.92	Tecknings- och målarkonstens historia, Finland	1	0	6	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:74.92	Tecknings- och målarkonstens historia, Finland	1	0	7	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.941	Tecknings- och målarkonstens historia, Tyskland	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.95	Tecknings- och målarkonstens historia, Storbritannien. Irland	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.961	Tecknings- och målarkonstens historia, Frankrike	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.962	Tecknings- och målarkonstens historia, Italien	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:75.792	Fotografins och fotokonstens historia, Finland	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:75.792	Fotografins och fotokonstens historia, Finland	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.793	Fotografins och fotokonstens historia, Norden	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.7941	Fotografins och fotokonstens historia, Tyskland	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.795	Fotografins och fotokonstens historia, Storbritannien. Irland	0	0	0	0	0.0	0.0	0.0
@@ -959,7 +959,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:78.24	Kompositionslära	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.27	Notation	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.28	Tonträffning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.3112	Finska barnvisor	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:78.3113	Svenska barnvisor	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:78.3113	Svenska barnvisor	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.3114	Tyska barnvisor	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.3115	Engelska barnvisor	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.3116	Franska, italienska, spanska och portugisiska barnvisor	0	0	0	0	0.0	0.0	0.0
@@ -1003,7 +1003,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:78.8962	Andlig pop- och rockmusik	0	0	0	0	0.0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:78.912	Medeltidens musik (ca 1000-1400)	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.95	Brittiska öarnas musikhistoria	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.182	Brottning	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:79.31	Fotboll	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:79.31	Fotboll	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.35	Tennis	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.8131	Schack	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:80.25	Skönlitterära verk på övriga finsk-ugriska språk med blandat innehåll	0	0	0	0	0.0	0.0	0.0
@@ -1074,11 +1074,11 @@ http://urn.fi/URN:NBN:fi:au:ykl:89.999	Teckenspråk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:90.53	Heraldik. Sigillograri	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:90.54	Ordnar. Titlar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.3	Finlands historia, reformationstiden	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.4	Finlands historia, Svenska stormaktstiden	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.5	Finlands historia, frihetstiden och gustavianska tiden	0	0	3	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.81	Egentliga Finlands historia	1	1	23	0	0.041666666666666664	1.0	0.07999999999999999
-http://urn.fi/URN:NBN:fi:au:ykl:92.82	Ålands historia	0	0	4	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.831	Västra Nyland	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.4	Finlands historia, Svenska stormaktstiden	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.5	Finlands historia, frihetstiden och gustavianska tiden	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.81	Egentliga Finlands historia	1	1	18	0	0.05263157894736842	1.0	0.1
+http://urn.fi/URN:NBN:fi:au:ykl:92.82	Ålands historia	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.831	Västra Nyland	0	0	5	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.833	Huvudstadsregionens historia	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.834	Östra Nylands historia	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.841	Egentliga Tavastlans historia	0	0	0	0	0.0	0.0	0.0
@@ -1097,7 +1097,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:92.883	Mellersta Österbottens historia	0	0	0	0	
 http://urn.fi/URN:NBN:fi:au:ykl:92.884	Södra Österbottens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.885	Kajanalands historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:93.12	Sveriges historia åren 1524-1718	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:93.13	Sveriges historia åren 1719-1809	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:93.13	Sveriges historia åren 1719-1809	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:94.11	Tysklands historia, gamla tiden och medeltiden	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:94.4	Österrikes historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:94.5	Ungerns historia	0	0	0	0	0.0	0.0	0.0
@@ -1125,15 +1125,15 @@ http://urn.fi/URN:NBN:fi:au:ykl:99.31	Släktböcker. Antavlor	0	0	0	0	0.0	0.0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:01.22	Kataloger över lärdomsprov och akademiska avhandlingar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:01.55	Naturvetenskaper. Matematik. Medicin	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.31	Biblioteksautomatisering	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:04	ALLMÄNNA SAMLINGSVERK	5	2	99	3	0.019801980198019802	0.4	0.03773584905660377
+http://urn.fi/URN:NBN:fi:au:ykl:04	ALLMÄNNA SAMLINGSVERK	5	2	95	3	0.020618556701030927	0.4	0.0392156862745098
 http://urn.fi/URN:NBN:fi:au:ykl:11.3	Renässansen och nya tidens filosofi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:15.91	Astrologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:15.93	Spådomskonst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:17.5	Allmän estetik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:21.51	Antroposofi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:23.3	Frälsningslära	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:28.2	Ortodoxa kyrkan	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:29.3	Antikens religioner och mytologi	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:28.2	Ortodoxa kyrkan	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:29.3	Antikens religioner och mytologi	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:31.508	Befolkningsstatistik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.32	Arvs- och testamentsrätt	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.35	Hyres- och arrendelagstiftning	0	0	0	0	0.0	0.0	0.0
@@ -1143,7 +1143,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:38.63	Folkbildningsorganisationer	0	0	0	0	0.0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:42.6	Savolax	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:44.3	Tjeckien. Slovakien	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:45.7	Irland	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:46.3	Spanien	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:46.3	Spanien	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.13	Sydasien	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.29	Öar kring Afrika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.35	Mellanamerika	0	0	0	0	0.0	0.0	0.0
@@ -1153,9 +1153,9 @@ http://urn.fi/URN:NBN:fi:au:ykl:51.1	Talteori. Aritmetik. Algebra	0	0	0	0	0.0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:51.4	Sannolikhetskalkyl	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:52.8	Tideräkning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:53.66	Färglära	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:58.12	Fåglar	2	2	6	0	0.25	1.0	0.4
-http://urn.fi/URN:NBN:fi:au:ykl:58.13	Kräldjur. Groddjur	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:58.2	Ryggradslösa djur	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:58.12	Fåglar	2	2	5	0	0.2857142857142857	1.0	0.4444444444444445
+http://urn.fi/URN:NBN:fi:au:ykl:58.13	Kräldjur. Groddjur	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:58.2	Ryggradslösa djur	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.11	Människans anatomi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.5624	Kreativitets- och aktivitetsterapi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.5112	Enskilda bilmärken och bilmodeller	0	0	0	0	0.0	0.0	0.0
@@ -1168,12 +1168,12 @@ http://urn.fi/URN:NBN:fi:au:ykl:67.38	Odlingsmetoder	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.41	Hästskötsel	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.44	Uppfödning av fjäderfä	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.455	Små däggdjur	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:69.71	Frimärkssamlande	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:69.71	Frimärkssamlande	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.03	Uppslagsverk om konst. Konstnärsmatriklar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.983	Allmän konsthistoria, Amerika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.985	Allmän konsthistoria, Australien. Oceanien	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:71.5	Tatuering. Kroppskonst	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:72.26	Slott. Fästningar. Palats. Herrgårdar	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:72.26	Slott. Fästningar. Palats. Herrgårdar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:72.97	Arkitekturens historia, Östeuropa	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:72.983	Arkitekturens historia, Amerika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:73.94	Skulpturens historia, Mellaneuropa	0	0	0	0	0.0	0.0	0.0
@@ -1225,7 +1225,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:86.78	Litteraturhistoria och -forskning som rör
 http://urn.fi/URN:NBN:fi:au:ykl:86.92	Litteraturhistoria och -forskning som rör litteratur på semitiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.95	Litteraturhistoria och -forskning som rör litteratur på japanska och koreanska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.99	Litteraturhistoria och -forskning som rör litteratur på övriga icke-indoeuropeiska språk	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.41	Tyska	2	2	22	0	0.08333333333333333	1.0	0.15384615384615385
+http://urn.fi/URN:NBN:fi:au:ykl:89.41	Tyska	2	2	20	0	0.09090909090909091	1.0	0.16666666666666669
 http://urn.fi/URN:NBN:fi:au:ykl:89.78	Baltiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.99	Övriga icke-indoeuropeiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:90.22	Erotikens historia	0	0	0	0	0.0	0.0	0.0
@@ -1250,7 +1250,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:99.21	Biografiska uppslagsverk, filosofer och ps
 http://urn.fi/URN:NBN:fi:au:ykl:01.58	Skönlitteratur. Litteraturvetenskap. Språkvetenskap	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.321	Innehållsanalys	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:07.01	Kommunikationsteori	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:10.8	Aforism- och citatsamlingar	1	1	1	0	0.5	1.0	0.6666666666666666
+http://urn.fi/URN:NBN:fi:au:ykl:10.8	Aforism- och citatsamlingar	1	1	2	0	0.3333333333333333	1.0	0.5
 http://urn.fi/URN:NBN:fi:au:ykl:11.1	Gamla tidens filosofi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:11.4	Nyare tidens filosofi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:11.5	Nutida filosofi	0	0	0	0	0.0	0.0	0.0
@@ -1259,8 +1259,8 @@ http://urn.fi/URN:NBN:fi:au:ykl:14.459	Hypnos	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.62	Vuxenpsykologi och åldrandets psykologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:24.12	Ord för dagen. Kristna morgonsamlingar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:24.2	Predikningar. Postillor	0	0	4	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:28.7	Protestantiska kyrkor och samfund	0	0	7	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:28.7109	Finlands kyrkohistoria	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:28.7	Protestantiska kyrkor och samfund	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:28.7109	Finlands kyrkohistoria	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:29.53	Buddhism och buddhistisk mytologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:31.3	Allmän statistik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.03	Rättshandböcker	0	0	0	0	0.0	0.0	0.0
@@ -1288,11 +1288,11 @@ http://urn.fi/URN:NBN:fi:au:ykl:52.1	Teoretisk astronomi. Celest mekanik	0	0	0	0
 http://urn.fi/URN:NBN:fi:au:ykl:53.1	Allmän och teoretisk fysik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:54.2	Oorganisk kemi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:54.3	Organisk kemi. Plasternas kemi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:58.14	Fiskar	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:58.14	Fiskar	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.22	Vårdanstalter	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.27	Rättsmedicin	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.42	Hjälpmedel för sjuka och handikappade	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.48	Kirurgi. Kirurgisk vård	0	0	7	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.48	Kirurgi. Kirurgisk vård	0	0	5	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.511	Könssjukdomar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:60.3	Standarder. Normer. Måttenheter	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.21	Maskinkomponenter. Maskindelar	0	0	0	0	0.0	0.0	0.0
@@ -1306,14 +1306,14 @@ http://urn.fi/URN:NBN:fi:au:ykl:65.45	Spinning. Kardning. Färgning	0	0	0	0	0.0	
 http://urn.fi/URN:NBN:fi:au:ykl:65.9	Övriga handarbeten	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.33	Prydnadsväxter	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.331	Rumsväxter. Blomsterarrangemang	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.35	Örter och kryddväxter	0	0	13	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.451	Hundar	1	1	0	0	1.0	1.0	1.0
+http://urn.fi/URN:NBN:fi:au:ykl:67.35	Örter och kryddväxter	0	0	8	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:67.451	Hundar	1	1	1	0	0.5	1.0	0.6666666666666666
 http://urn.fi/URN:NBN:fi:au:ykl:67.46	Renskötsel	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.52	Drivning. Virkeshandel. Skogstaxering	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:68.221	Veganrätter	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:68.25	Maträtter och matkultur i olika länder och regioner	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.062	Konstmuseer. Konstsamlingar	1	0	0	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:70.92	Allmän konsthistoria, Finland	1	1	24	0	0.04	1.0	0.07692307692307693
+http://urn.fi/URN:NBN:fi:au:ykl:70.92	Allmän konsthistoria, Finland	1	1	25	0	0.038461538461538464	1.0	0.07407407407407407
 http://urn.fi/URN:NBN:fi:au:ykl:71.7	Performance	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:72.24	Kyrkor och andra religiösa byggnader	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:72.912	Medeltidens arkitektur	0	0	0	0	0.0	0.0	0.0
@@ -1326,7 +1326,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:73.983	Skulpturens historia, Amerika	0	0	0	0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.12	Textning. Kalligrafi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.983	Tecknings- och målarkonstens historia, Amerika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.71	Motiv i fotokonsten	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:76.9	Konstindustrins och konsthantverkets historia	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:76.9	Konstindustrins och konsthantverkets historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.196	Teater- och scenkonstens historia, Sydeuropa	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.38	Folkdans	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.496	Filmens och TV-programmens historia, Sydeuropa	0	0	0	0	0.0	0.0	0.0
@@ -1363,10 +1363,10 @@ http://urn.fi/URN:NBN:fi:au:ykl:86.48	Litteraturhistoria och -forskning som rör
 http://urn.fi/URN:NBN:fi:au:ykl:86.61	Litteraturhistoria och -forskning som rör litteratur på franska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.71	Litteraturhistoria och -forskning som rör litteratur på ryska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.94	Litteraturhistoria och -forskning som rör litteratur på tibeto-burmanska språk	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:87.9	Etymologi. Onomastik	0	0	7	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:87.9	Etymologi. Onomastik	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:88.4	Övriga östersjöfinska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:88.5	Övriga finsk-ugriska språk	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.5	Engelska	11	11	78	0	0.12359550561797752	1.0	0.21999999999999997
+http://urn.fi/URN:NBN:fi:au:ykl:89.5	Engelska	11	11	82	0	0.11827956989247312	1.0	0.21153846153846156
 http://urn.fi/URN:NBN:fi:au:ykl:89.92	Semitiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.94	Tibeto-burmanska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.95	Japanska. Koreanska	0	0	0	0	0.0	0.0	0.0
@@ -1405,10 +1405,10 @@ http://urn.fi/URN:NBN:fi:au:ykl:14.11	Perceptionspsykologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.451	Sömn och drömmar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:15.92	Drömböcker	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:16.1	Kunskapsteori	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:24.1	Andakt	1	1	57	0	0.017241379310344827	1.0	0.03389830508474576
+http://urn.fi/URN:NBN:fi:au:ykl:24.1	Andakt	1	1	44	0	0.022222222222222223	1.0	0.04347826086956522
 http://urn.fi/URN:NBN:fi:au:ykl:29.52	Indiska religioner och mytologier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:29.6	Judisk religion och mytologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.364	Bolagslagstiftning	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:33.364	Bolagslagstiftning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.62	Utsöknings- och konkurslagstiftning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:35.12	Statens regional- och lokalförvaltning. Landskapsförvaltning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.14	Priser. Prispolitik	0	0	0	0	0.0	0.0	0.0
@@ -1417,16 +1417,16 @@ http://urn.fi/URN:NBN:fi:au:ykl:36.4	Kooperation	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.2	Social trygghet	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.221	Datateknik i undervisningen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.297	Didaktik i konst och idrott	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.298	Didaktik i språk och litteratur	0	0	15	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.298	Didaktik i språk och litteratur	0	0	14	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.552	Specialundervisning. Specialpedagogik, hörselskadade	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.555	Specialundervisning. Specialpedagogik, utvecklingsstörda	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.58	Special- och experimentskolor	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.61	Folkhögskolor. Folkakademier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.62	Medborgarinstitut. Arbetarinstitut	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:42.4	Tavastland. Mellersta Finland	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:43.2	Norge	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:45.1	Storbritannien	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48.3	Amerika	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:43.2	Norge	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:45.1	Storbritannien	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:48.3	Amerika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.312	Förenta Staterna	1	1	0	0	1.0	1.0	1.0
 http://urn.fi/URN:NBN:fi:au:ykl:49.55	Australiska och oceaniska folk och polarfolk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:50.14	Markvård	0	0	0	0	0.0	0.0	0.0
@@ -1444,14 +1444,14 @@ http://urn.fi/URN:NBN:fi:au:ykl:59.49	Lindringsvård. Terminalvård	0	0	1	0	0.0	
 http://urn.fi/URN:NBN:fi:au:ykl:59.532	Andningsorgan. Sjukdomar i andningsorganen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.536	Urinvägsorganen. Sjukdomar i urinvägsorganen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.5671	Rökning	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.5672	Alkoholism. Alkoholanvändning	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.5672	Alkoholism. Alkoholanvändning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.58	Allergiska sjukdomar. Huden. Hudsjukdomar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.721	Nätgemenskaper. E-post. Chatt	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:63.7	Plast- och gummiindustri	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:65.3	Läderarbete	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:65.41	Vävning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.36	Rumsakustik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.42	Skötsel av nötkreatur, får och getter	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:67.42	Skötsel av nötkreatur, får och getter	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.453	Burfåglar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.454	Akvarier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.582	Svampplockning	0	0	0	0	0.0	0.0	0.0
@@ -1507,7 +1507,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:78.892	Blues. Jazz	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.93	Nordisk musikhistoria	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.96	Spaniens, Italiens, Portugals och Frankrikes musikhistoria	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.17	Skytte	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:79.19	Cykelåkning	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:79.19	Cykelåkning	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.812	Kortspel	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.814	Frågesport. Slutledningsuppgifter	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:80.3	Skönlitterära verk på nordiska språk med blandat innehåll	0	0	0	0	0.0	0.0	0.0
@@ -1530,23 +1530,23 @@ http://urn.fi/URN:NBN:fi:au:ykl:85.28	Bilderböcker på övriga indoeuropeiska s
 http://urn.fi/URN:NBN:fi:au:ykl:85.32	Tecknade serier på finska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:85.33	Tecknade serier på nordiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:85.38	Tecknade serier på övriga indoeuropeiska språk	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:86.31	Litteraturhistoria och -forskning som rör litteratur på svenska	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:86.31	Litteraturhistoria och -forskning som rör litteratur på svenska	0	0	5	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.96	Litteraturhistoria och -forskning som rör litteratur på afrikanska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:87.3	Grammatik. Ordlära	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:88.23	Finsk grammatik, formlära och ordlära	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:88.23	Finsk grammatik, formlära och ordlära	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.315	Svenska dialekter	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.319	Svensk etymologi och onomastik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.91	Uraliska språk. Altaiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:90.34	Första världskriget 1914-1918	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:91.173	Gamla tiden, antika Romarrikets historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:91.7	Nya tiden 1500-1788	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.83	Nylands historia	0	0	5	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.9	Finlandssvenskarnas historia	0	0	7	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.83	Nylands historia	0	0	15	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.9	Finlandssvenskarnas historia	0	0	5	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:95.1	Storbritanniens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:97.13	Ryssland till år 1917	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:97.143	Sovjetunionens historia åren 1946-1991	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:98.114	Israels och Palestinas historia	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:98.3	Amerikas historia	0	0	6	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:98.3	Amerikas historia	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:99.17	Biografier. Memoarer, konstforskare och idrottsforskare	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:99.19	Biografier. Memoarer, historiker, arkeologer och upptäcktsresande	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:99.27	Biografiska uppslagsverk, konstforskare och idrottsforskare	0	0	0	0	0.0	0.0	0.0
@@ -1557,7 +1557,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:02.323	Katalogisering	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:06.8	Kultur för barn och unga	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.01	Psykologisk teori och filosofi. Psykologiska forskningsmetoder	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.16	Känsla och vilja	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:21.5	Teosofi	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:21.5	Teosofi	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:22.2	Nya testamentet	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:23.2	Kristologi. Jesu liv	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:23.8	Kristen etik	0	0	2	0	0.0	0.0	0.0
@@ -1571,7 +1571,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:36.2	Pengar. Valuta	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.232	Äldreservice	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.41	Dagvård.	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.7	Privat hjälp- och vårdarbete	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.553	Specialundervisning. Specialpedagogik, synskadade	0	0	5	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.553	Specialundervisning. Specialpedagogik, synskadade	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:39.7	Militär utbildning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:40.71	Allmänna reseguider	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:42.9	Lappland	0	0	0	0	0.0	0.0	0.0
@@ -1579,10 +1579,10 @@ http://urn.fi/URN:NBN:fi:au:ykl:43.5	Nordkalotten	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:46.8	Balkanländerna	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:47.2	Baltikum	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.18	Central- och Ostasien	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:50.12	Luftvård	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:50.12	Luftvård	0	0	10	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:52.3	Astronomiska instrument	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:57.3	Alger. Lavar. Svampar. Mossor	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:58.21	Insekter	1	0	1	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:58.21	Insekter	1	0	4	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.534	Blod. Blodsjukdomar. Cirkulationsorgan. Sjukdomar i cirkulationsorganen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.535	Matsmältningsorgan. Sjukdomar i matsmältningsorganen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.5622	Psykoanalys	0	0	0	0	0.0	0.0	0.0
@@ -1662,15 +1662,15 @@ http://urn.fi/URN:NBN:fi:au:ykl:87.01	Språkfilosofi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:87.4	Ljudlära	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:88.24	Finsk ljudlära	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:88.29	Finska språkets etymologi och onomastik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.313	Svensk grammatik, morfologi och ordlära	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:89.313	Svensk grammatik, morfologi och ordlära	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:89.4	Germanska språk	8	8	35	0	0.18604651162790697	1.0	0.3137254901960785
 http://urn.fi/URN:NBN:fi:au:ykl:89.8	Övriga indoeuropeiska språk	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.83	Indoiranska språk	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:89.83	Indoiranska språk	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:91.8	Nya tiden 1789-	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.7	Finlands historia, självständighetstiden	0	0	4	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.73	Finlands historia, åren 1939-1945	0	0	28	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.7	Finlands historia, självständighetstiden	0	0	5	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92.73	Finlands historia, åren 1939-1945	0	0	21	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.84	Tavastlands och Mellersta Finlands historia	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92.87	Karelens historia	1	1	3	0	0.25	1.0	0.4
+http://urn.fi/URN:NBN:fi:au:ykl:92.87	Karelens historia	1	1	1	0	0.5	1.0	0.6666666666666666
 http://urn.fi/URN:NBN:fi:au:ykl:94.13	Tysklands historia, nutid	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:96.1	Frankrikes historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:97.14	Sovjetunionens historia åren 1917-1991	0	0	0	0	0.0	0.0	0.0
@@ -1678,10 +1678,10 @@ http://urn.fi/URN:NBN:fi:au:ykl:97.2	Baltiska ländernas historia	0	0	0	0	0.0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:98.11	Främre Asiens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:98.18	Centralasiens och Östasiens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:98.5	Australiens och Oceaniens historia	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:99	PERSON- OCH SLÄKTHISTORIA	16	14	115	2	0.10852713178294573	0.875	0.19310344827586207
-http://urn.fi/URN:NBN:fi:au:ykl:99.13	Biografier. Memoarer, representanter för samhällsliv, pedagogik och försvar	2	1	52	1	0.018867924528301886	0.5	0.03636363636363636
+http://urn.fi/URN:NBN:fi:au:ykl:99	PERSON- OCH SLÄKTHISTORIA	16	14	113	2	0.11023622047244094	0.875	0.19580419580419578
+http://urn.fi/URN:NBN:fi:au:ykl:99.13	Biografier. Memoarer, representanter för samhällsliv, pedagogik och försvar	2	1	51	1	0.019230769230769232	0.5	0.037037037037037035
 http://urn.fi/URN:NBN:fi:au:ykl:99.25	Biografiska uppslagsverk, naturvetare och medicinare	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:99.3	Släkthistoria. Släktforskning	0	0	6	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:99.3	Släkthistoria. Släktforskning	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:01.57	Konst. Sport	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.1	Administration och planering av bibliotek	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:06.1	Föreningar. Stiftelser. Sällskap. Klubbar	0	0	0	0	0.0	0.0	0.0
@@ -1690,7 +1690,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:07.21	Programverksamhet i radio	0	0	0	0	0.0	0.0	
 http://urn.fi/URN:NBN:fi:au:ykl:1	FILOSOFI. PSYKOLOGI PARANORMALA FENOMEN	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:15.7	Ufon	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:16	KUNSKAPSTEORI. VETENSKAPSTEORI	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:17	ETIK. LEVNADSFILOSOFI. ESTETIK	1	1	25	0	0.038461538461538464	1.0	0.07407407407407407
+http://urn.fi/URN:NBN:fi:au:ykl:17	ETIK. LEVNADSFILOSOFI. ESTETIK	1	1	15	0	0.0625	1.0	0.11764705882352941
 http://urn.fi/URN:NBN:fi:au:ykl:22.1	Gamla testamentet	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:23.31	Omvändelse. Att bli troende. Trosliv	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:24.3	Psalmer. Andliga sånger	0	0	0	0	0.0	0.0	0.0
@@ -1718,27 +1718,27 @@ http://urn.fi/URN:NBN:fi:au:ykl:40.02	Världskartor och kartverk	0	0	0	0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:40.1	Allmän kulturgeografi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:42.7	Karelen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:42.8	Österbotten	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48.1	Asien	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:48.1	Asien	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.38	Sydamerika	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:48.5	Australien och Oceanien	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:50	NATURVETENSKAPER	14	14	87	0	0.13861386138613863	1.0	0.2434782608695652
+http://urn.fi/URN:NBN:fi:au:ykl:50	NATURVETENSKAPER	14	14	90	0	0.1346153846153846	1.0	0.23728813559322035
 http://urn.fi/URN:NBN:fi:au:ykl:53.5	Värmelära	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:53.7	Elektricitetslära. Magnetism	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:55.3	Mineralogi. Petrologi. Kristallografi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:55.4	Paleontologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:55.5	Meteorologi. Klimatologi	0	0	3	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:56.1	Cytologi. Cellbiologi	0	0	9	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:55.5	Meteorologi. Klimatologi	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:56.1	Cytologi. Cellbiologi	0	0	12	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.561	Psykiska sjukdomar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.5623	Familje-, grupp- och miljöterapi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.57	Gynekologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.8	Hälso- och sjukvård för äldre. Geriatriska sjukdomar	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.57	Gynekologi	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.8	Hälso- och sjukvård för äldre. Geriatriska sjukdomar	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.2	Systemarbete. Informatonshantering	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.53	Cyklar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.62	Omvandling, transformation, distribution och överföring av elenergi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:63.12	Metallurgi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:64	TRÄFÖRÄDLINGSINDUSTRI. TEXTILINDUSTRI. LÄDER- OCH PÄLSVARUINDUSTRI. FINMEKANISK INDUSTRI	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:64.4	Läder- och pälsvaruindustri. Skoindustri	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:65.43	Stickning	1	0	1	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:65.43	Stickning	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:65.6	Ler- och keramikarbete. Modellering	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.341	Uppvärmning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.48	Pälsdjursuppfödning	0	0	0	0	0.0	0.0	0.0
@@ -1750,7 +1750,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:70.913	Nya tidens konst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.94	Allmän konsthistoria, Mellaneuropa	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.97	Allmän konsthistoria, Östeuropa	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:71.3	Installationer. Miljökonst	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:74.17	Skämtteckningar. Karikatyrer	0	0	7	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:74.17	Skämtteckningar. Karikatyrer	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:76.5	Ornamentkonst. Ornament	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.3	Dans	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.411	Video- och smalfilmningsteknik	0	0	0	0	0.0	0.0	0.0
@@ -1781,12 +1781,12 @@ http://urn.fi/URN:NBN:fi:au:ykl:85.17	Sagor på slaviska och baltiska språk	0	0
 http://urn.fi/URN:NBN:fi:au:ykl:85.27	Bilderböcker på slaviska och baltiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:85.37	Tecknade serier på slaviska och baltiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.01	Litteraturens estetik. Poetik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:86.22	Finlandssvensk litteraturhistoria och forskning i finlandssvensk litteratur	2	1	38	1	0.02564102564102564	0.5	0.048780487804878044
+http://urn.fi/URN:NBN:fi:au:ykl:86.22	Finlandssvensk litteraturhistoria och forskning i finlandssvensk litteratur	2	1	36	1	0.02702702702702703	0.5	0.05128205128205129
 http://urn.fi/URN:NBN:fi:au:ykl:86.76	Litteraturhistoria och -forskning som rör litteratur på sydslaviska språk	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.3	Nordiska språk	3	3	32	0	0.08571428571428572	1.0	0.15789473684210528
+http://urn.fi/URN:NBN:fi:au:ykl:89.3	Nordiska språk	3	3	26	0	0.10344827586206896	1.0	0.1875
 http://urn.fi/URN:NBN:fi:au:ykl:89.314	Svensk ljudlära	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.6	Romanska språk	3	3	20	0	0.13043478260869565	1.0	0.23076923076923078
-http://urn.fi/URN:NBN:fi:au:ykl:90.35	Andra världskriget 1939-1945	3	3	29	0	0.09375	1.0	0.17142857142857143
+http://urn.fi/URN:NBN:fi:au:ykl:89.6	Romanska språk	3	3	26	0	0.10344827586206896	1.0	0.1875
+http://urn.fi/URN:NBN:fi:au:ykl:90.35	Andra världskriget 1939-1945	3	3	25	0	0.10714285714285714	1.0	0.19354838709677416
 http://urn.fi/URN:NBN:fi:au:ykl:90.52	Numismatik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.88	Österbottens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:93.5	Nordkalottens historia	0	0	0	0	0.0	0.0	0.0
@@ -1799,9 +1799,9 @@ http://urn.fi/URN:NBN:fi:au:ykl:00.109	Skriftens historia. Paleografi. Epigrafi	
 http://urn.fi/URN:NBN:fi:au:ykl:25.25	Sakrament. Kyrkliga förrättningar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:25.26	Kyrkliga föremål och symboler	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:25.5	Diakoni. Inre mission. Evangelisation	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:30.1	Sociologi	1	0	14	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:30.1	Sociologi	1	0	15	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:30.8	Umgängesformer och etikett	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.1	Internationell rätt	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:33.1	Internationell rätt	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.42	Jord- och skogsbrukslagstiftning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:35.1	Statsförvaltning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.09	Ekonomisk historia	0	0	0	0	0.0	0.0	0.0
@@ -1828,7 +1828,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:56.8	Naturhandböcker	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:58.8	Djuranatomi. Djurfysiologi. Djurmorfologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.31	Skönhetsvård. Utseende	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.51	Smittsamma sjukdomar	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.533	Inresekretoriska körtlar. Ämnesomsättningssjukdomar	0	0	8	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.533	Inresekretoriska körtlar. Ämnesomsättningssjukdomar	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:60.1	Teknisk ritning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:60.4	Innovationer. Uppfinningar. Patent	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.44	Kringutrustning för datorer	0	0	0	0	0.0	0.0	0.0
@@ -1843,9 +1843,9 @@ http://urn.fi/URN:NBN:fi:au:ykl:65.42	Sömnad	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:65.424	Framställning av barnkläder som hantverk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.93	Vattenförsörjning och avloppsvattenhantering	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.94	Avfallshantering. Återvinning	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.61	Jakt	1	0	3	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:67.61	Jakt	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:68.23	Kött-, fågel- och fiskrätter	1	0	0	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:70.01	Konstens estetik	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:70.01	Konstens estetik	0	0	12	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:73	SKULPTUR	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.97	Tecknings- och målarkonstens historia, Östeuropa	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.19	Grafikens historia	0	0	0	0	0.0	0.0	0.0
@@ -1878,7 +1878,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:98.1	Asiens historia	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:98.2	Afrikas historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:98.312	Förenta staternas historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:98.61	Nordliga polarländerna. Arktis	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:99.12	Biografier. Memoarer, representanter för religioner och kyrkosamfund	1	1	13	0	0.07142857142857142	1.0	0.13333333333333333
+http://urn.fi/URN:NBN:fi:au:ykl:99.12	Biografier. Memoarer, representanter för religioner och kyrkosamfund	1	1	14	0	0.06666666666666667	1.0	0.125
 http://urn.fi/URN:NBN:fi:au:ykl:01.3	Lokalbibliografier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.6	Barnbiblioteksarbete. Ungdomsbiblioteksarbete	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.7	Biblioteksservice för särskilda befolkningsgrupper	0	0	0	0	0.0	0.0	0.0
@@ -1886,11 +1886,11 @@ http://urn.fi/URN:NBN:fi:au:ykl:06.4	Arkiv	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:07.2	Radio och television: programverksamhet	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:07.22	Programverksamhet i television	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.61	Barn- och ungdomspsykologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:15	PARANORMALA FENOMEN	1	0	13	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:15	PARANORMALA FENOMEN	1	0	15	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:15.1	Parapsykologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:2	RELIGION	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:25.2	Sakralteologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:32.3	Kvinnans och mannens ställning i samhället	0	0	5	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:32.3	Kvinnans och mannens ställning i samhället	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:32.52	Finlands utrikespolitik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.21	Statsförfattningsrätt	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.23	Plan- och bygglagstiftning	0	0	0	0	0.0	0.0	0.0
@@ -1902,7 +1902,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:34.1	Riksplanering	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.53	Bokföring och redovisning inom den offentliga ekonomin	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.21	Utkomstskydd	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.8	Konsumentpolitik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:40	GEOGRAFI	10	10	62	0	0.1388888888888889	1.0	0.24390243902439027
+http://urn.fi/URN:NBN:fi:au:ykl:40	GEOGRAFI	10	10	73	0	0.12048192771084337	1.0	0.21505376344086022
 http://urn.fi/URN:NBN:fi:au:ykl:49.24	Finländsk och finsk-ugrisk etnologi, Textilier, folkdräkte, smycken	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:52.21	Solsystemet	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:52.4	Rymdforskning. Rymdflygningar	0	0	0	0	0.0	0.0	0.0
@@ -1913,7 +1913,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:58.9	Djurens beteende. Djurekologi. Djurgeografi
 http://urn.fi/URN:NBN:fi:au:ykl:59.41	Fysioterapi. Fysiologiska behandlingsmetoder	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.53	Inre organ. Invärtes sjukdomar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.54	Cancersjukdomar	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.55	Nervsystemet. Neurologi	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.55	Nervsystemet. Neurologi	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.564	Krispsykologi. Katastrofpsykologi. Sorgearbete	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.6	Regler- och systemteknik. Industriell automation	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.72	Internet. Intranät. Extranät	0	0	6	0	0.0	0.0	0.0
@@ -1931,7 +1931,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:69.64	Flygtrafik	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.96	Allmän konsthistoria, Sydeuropa	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.3	Tecknings- och målarkonstens motiv	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.1	Grafik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:75.7	Fotografi. Fotokonst	0	0	13	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:75.7	Fotografi. Fotokonst	0	0	12	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77	SCENKONST. FILMKONST	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.15	Teaterformer	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.312	Finska sångsamlingar med blandat innehåll	0	0	0	0	0.0	0.0	0.0
@@ -1980,29 +1980,29 @@ http://urn.fi/URN:NBN:fi:au:ykl:06.2	Museer	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:12	LOGIK	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.13	Tänkande, intelligens, kreativitet och begåvning ur psykologisk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.45	Djuppsykologi. Det omedvetna själslivet	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:22	BIBELN. BIBELFORSKNING. EXEGETIK	1	0	20	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:22	BIBELN. BIBELFORSKNING. EXEGETIK	1	0	16	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:23.1	Gudsbegreppet. Guds verksamhet	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:32.182	Finlands politiska system och inrikespolitik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:34.52	Planering av bostadsområden	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.132	Lönepolitik. Inkomstpolitik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:36.52	Beskattning. Skattepolitik	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:36.52	Beskattning. Skattepolitik	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.42	Barn- och ungdomsomsorg. Barn- och ungdomsskydd	1	0	2	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.22	Undervisningsmaterial. Läromedel	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.3	Studieteknik	0	0	10	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.551	Specialundervisning. Specialpedagogik, läs-, skriv- och talsvårigheter	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.3	Studieteknik	0	0	6	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.551	Specialundervisning. Specialpedagogik, läs-, skriv- och talsvårigheter	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:4	GEOGRAFI. RESOR. ETNOLOGI	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:47.1	Ryssland	0	0	7	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:47.1	Ryssland	0	0	8	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:5	NATURVETENSKAPER. MATEMATIK. MEDICIN	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:56.4	Ärftlighetslära	0	0	2	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.241	Personalhälsovård. Studenthälsovård. Skolhälsovård	1	0	4	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:56.4	Ärftlighetslära	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.241	Personalhälsovård. Studenthälsovård. Skolhälsovård	1	0	1	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.28	Idrottsmedicin	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.43	Behandling med läkemedel. Farmakologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:6	TEKNIK. INDUSTRI HANTVERK OCH HANDARBETE JORD- OCH SKOGSBRUK. HUSHÅLLNING FÖRETAGSEKONOMI. TRAFIK	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.74	Audiovisuell teknik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.51	Motorfordon	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:62.542	Fartyg	0	0	13	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:62.542	Fartyg	0	0	21	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:65.7	Glasmålning. Porslinsmålning	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.62	Fiske	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:67.62	Fiske	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:68.3	Skötsel av lägenheter och lösöre	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:68.4	Inredningshandböcker	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:69.11	Ledarskap. Teknik och metoder	1	1	16	0	0.058823529411764705	1.0	0.1111111111111111
@@ -2032,36 +2032,36 @@ http://urn.fi/URN:NBN:fi:au:ykl:78.8938	Underhållningsmusik med sång på övri
 http://urn.fi/URN:NBN:fi:au:ykl:78.8946	Fransk, italiensk, spansk och portugisisk vismusik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79	MOTION. IDROTT. LEKAR. NÖJEN	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.84	Lekar	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:8	SKÖNLITTERATUR. LITTERATURVETENSKAP SPRÅKVETENSKAP	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:8	SKÖNLITTERATUR. LITTERATURVETENSKAP SPRÅKVETENSKAP	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:81.2	Folksagor. Folksägner	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.18	Facklitteraturens historia. Forskning i facklitteratur	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.21	Den finskspråkiga folkdiktningens historia och forskning i finsk folkdiktning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:9	HISTORIA	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:91.1	Gamla tiden	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:92.89	Lapplands historia	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:93.1	Sveriges historia	1	0	8	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:93.1	Sveriges historia	1	0	5	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.6	Utvecklingspsykologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:16.8	Vetenskapspolitik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:17.1	Etik. Moralfilosofi	0	0	8	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:25.3	Kristen undervisning och fostran	1	0	12	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:17.1	Etik. Moralfilosofi	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:25.3	Kristen undervisning och fostran	1	0	4	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:25.4	Själavård	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:3	SAMHÄLLE	5	4	45	1	0.08163265306122448	0.8	0.1481481481481481
+http://urn.fi/URN:NBN:fi:au:ykl:3	SAMHÄLLE	5	4	40	1	0.09090909090909091	0.8	0.163265306122449
 http://urn.fi/URN:NBN:fi:au:ykl:32.7	Fredsfrågan. Fredsforskning	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.3	Civil- och handelsrätt	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.33	Sak- och obligationsrätt	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.44	Arbetsrätt	1	1	1	0	0.5	1.0	0.6666666666666666
+http://urn.fi/URN:NBN:fi:au:ykl:33.3	Civil- och handelsrätt	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:33.33	Sak- och obligationsrätt	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:33.44	Arbetsrätt	1	1	0	0	1.0	1.0	1.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.11	Kapital. Naturresurser	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.51	Ekonomisk planering	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.2	Didaktik	0	0	9	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.41	Enskilda universitet och högskolor	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.2	Didaktik	0	0	10	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.41	Enskilda universitet och högskolor	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:39.2	Underhåll	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:52	ASTRONOMI. GEODESI	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:52.2	Världsalltet. Stjärnor. Stjärnsystem	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:52.2	Världsalltet. Stjärnor. Stjärnsystem	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:55.6	Hydrologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:56.3	Allmän mikrobiologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:56.411	Biologisk antropologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:57.9	Växtekologi. Växtgeografi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.33	Avslappning. Sömn. Sömnlöshet	0	0	8	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.33	Avslappning. Sömn. Sömnlöshet	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.52	Rörelseorgan. Sjukdomar i rörelseorganen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.562	Psykoterapi. Mentalhygien	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.6	Hälso- och sjukvård för barn. Barnsjukdomar	0	0	0	0	0.0	0.0	0.0
@@ -2073,7 +2073,7 @@ http://urn.fi/URN:NBN:fi:au:ykl:66.33	Byggmaterial. Byggnadsarbeten	0	0	0	0	0.0	
 http://urn.fi/URN:NBN:fi:au:ykl:66.34	VVS-arbeten. Elarbeten	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.9	Kommunalteknisk miljövård	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.1	Lantbrukspolitik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.51	Skogsvård	0	0	6	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:67.51	Skogsvård	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:68	PRIVATHUSHÅLL. STORHUSHÅLL	1	0	33	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.1	Konstpsykologi. Konstsociologi. Konstpolitik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.21	Målarkonstens material och teknik	0	0	0	0	0.0	0.0	0.0
@@ -2099,20 +2099,20 @@ http://urn.fi/URN:NBN:fi:au:ykl:25	PRAKTISK TEOLOGI. KRISTENDOM	1	0	0	1	0.0	0.0	
 http://urn.fi/URN:NBN:fi:au:ykl:29.5	Österländska religioner och mytologier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:30.13	Socialpsykologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:30.81	Anordnande av fester	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:32.1	Politiska system	1	1	3	0	0.25	1.0	0.4
+http://urn.fi/URN:NBN:fi:au:ykl:32.1	Politiska system	1	1	2	0	0.3333333333333333	1.0	0.5
 http://urn.fi/URN:NBN:fi:au:ykl:32.68	Internationella organisationer	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.5	Bostadspolitik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:40.7	Resor. Turism	1	0	5	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:41	EUROPA	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:40.7	Resor. Turism	1	0	4	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:41	EUROPA	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:43	NORDEN	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:58.11	Däggdjur	1	1	3	0	0.25	1.0	0.4
-http://urn.fi/URN:NBN:fi:au:ykl:59.21	Vårdvetenskap. Vårdarbete. Vårdpersonal	1	1	17	0	0.05555555555555555	1.0	0.10526315789473684
-http://urn.fi/URN:NBN:fi:au:ykl:59.23	Förebyggande av olyckor. Första hjälpen	0	0	9	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.21	Vårdvetenskap. Vårdarbete. Vårdpersonal	1	1	14	0	0.06666666666666667	1.0	0.125
+http://urn.fi/URN:NBN:fi:au:ykl:59.23	Förebyggande av olyckor. Första hjälpen	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.35	Sexologi	1	0	9	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:60.8	Energi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:64.13	Pappers- och massaindustri	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.45	Sällskapsdjur	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:69	FÖRETAGSEKONOMI. MARKNADSFÖRING. HANDEL. TRAFIK	1	0	23	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:69	FÖRETAGSEKONOMI. MARKNADSFÖRING. HANDEL. TRAFIK	1	0	30	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:69.2	Företagsekonomisk redovisning	1	1	0	0	1.0	1.0	1.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.1	Teckningskonst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.12	Illustrationskonst	0	0	0	0	0.0	0.0	0.0
@@ -2124,15 +2124,15 @@ http://urn.fi/URN:NBN:fi:au:ykl:79.5	Flygsport. Motorsport	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.1	Allmän litteraturhistoria	1	0	2	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:99.18	Biografier. Memoarer, språkvetare och litteraturforskare	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:00.1	Skrift	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:02.8	Enskilda bibliotek	0	0	4	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:05.3	Årsböcker. Kalendrar. Almanackor	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:02.8	Enskilda bibliotek	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:05.3	Årsböcker. Kalendrar. Almanackor	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.1	Psykets struktur och funktion	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:16.7	Vetenskapsteori. Vetenskapsfilosofi	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:26	KRISTEN MISSION	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:30.7	Medborgaraktivitet och medborgaraktivism. Organisationsverksamhet. Mötesteknik.	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:32.21	Invandrare. Flyktingar	1	0	4	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:30.7	Medborgaraktivitet och medborgaraktivism. Organisationsverksamhet. Mötesteknik.	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:32.21	Invandrare. Flyktingar	1	0	2	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:32.6	Internationellt samarbete	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.36	Handelsrätt	1	1	7	0	0.125	1.0	0.2222222222222222
+http://urn.fi/URN:NBN:fi:au:ykl:33.36	Handelsrätt	1	1	5	0	0.16666666666666666	1.0	0.2857142857142857
 http://urn.fi/URN:NBN:fi:au:ykl:33.43	Näringsrätt	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.131	Arbetskraftspolitik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.23	Socialtjänst	0	0	0	0	0.0	0.0	0.0
@@ -2141,19 +2141,19 @@ http://urn.fi/URN:NBN:fi:au:ykl:39.5	Marinen. Sjökrigföring	0	0	0	0	0.0	0.0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:46	SYDEUROPA	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:47	ÖSTEUROPA	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:50.19	Djurskydd	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:51	MATEMATIK	32	32	58	0	0.35555555555555557	1.0	0.5245901639344263
-http://urn.fi/URN:NBN:fi:au:ykl:53	FYSIK	7	7	55	0	0.11290322580645161	1.0	0.2028985507246377
+http://urn.fi/URN:NBN:fi:au:ykl:51	MATEMATIK	32	32	64	0	0.3333333333333333	1.0	0.5
+http://urn.fi/URN:NBN:fi:au:ykl:53	FYSIK	7	7	65	0	0.09722222222222222	1.0	0.17721518987341772
 http://urn.fi/URN:NBN:fi:au:ykl:59.13	Medicinsk mikrobiologi. Immunologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59.3	Personlig hälsovård. Friskvård	4	3	38	1	0.07317073170731707	0.75	0.13333333333333333
-http://urn.fi/URN:NBN:fi:au:ykl:59.34	Näringslära. Dieter	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59.3	Personlig hälsovård. Friskvård	4	3	50	1	0.05660377358490566	0.75	0.10526315789473685
+http://urn.fi/URN:NBN:fi:au:ykl:59.34	Näringslära. Dieter	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.59	Sinnesorgan. Ögonsjukdomar. Öron-, näs- och halssjukdomar	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:60.7	Teknik och tillämpade vetenskaper som hobby	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:60.85	Kärnenergi	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:60.85	Kärnenergi	0	0	6	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.67	Elektronik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.1	Byggnadsstatik. Byggnadsplanering	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.58	Mångsidigt utnyttjande av skogen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:69.6	Trafik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:70.9	Allmän konsthistoria	0	0	7	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:70.9	Allmän konsthistoria	0	0	6	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.11	Teckningsteknik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:76.3	Glaskonst. Keramikkonst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.1	Teaterkonst	0	0	0	0	0.0	0.0	0.0
@@ -2161,12 +2161,12 @@ http://urn.fi/URN:NBN:fi:au:ykl:77.41	Filmteknik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.91	Den västerländska konstmusikens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:85.1	SAGOR	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:90.1	Historiefilosofi. Kulturfilosofi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:90.3	Allmän krigshistoria	0	0	8	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:90.3	Allmän krigshistoria	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:00.4	Boktryckarkonst. Grafisk industri	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.32	Biblioteksmedier. Skötsel av samlingarna	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:07.1	Journalistik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.14	Språk-, kommunikations- och uttryckspsykologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:20.2	Kristendom. Teologi	2	2	18	0	0.1	1.0	0.18181818181818182
+http://urn.fi/URN:NBN:fi:au:ykl:20.2	Kristendom. Teologi	2	2	32	0	0.058823529411764705	1.0	0.1111111111111111
 http://urn.fi/URN:NBN:fi:au:ykl:23	DOGMATIK. KRISTEN ETIK	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:28.71	Finlands evangelisk-lutherska kyrka	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:30.15	Familjesociologi	0	0	0	0	0.0	0.0	0.0
@@ -2176,14 +2176,14 @@ http://urn.fi/URN:NBN:fi:au:ykl:38.1	Familjefostran och hemuppfostran	0	0	0	0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:38.54	Utbildning på mellanstadiet. Utbildning på andra stadiet	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.542	Yrkesutbildning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:39.6	Flygvapnet. Luftkrigföring	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:55.2	Geologi. Geomorfologi	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:55.2	Geologi. Geomorfologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:56.2	Biokemi. Biofysik. Molekylbiologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:59	MEDICIN. HÄLSOVÅRD	8	7	73	1	0.0875	0.875	0.15909090909090906
-http://urn.fi/URN:NBN:fi:au:ykl:62	METALLINDUSTRI. MASKINTEKNIK. TRANSPORTMEDEL ELTEKNIK	0	0	7	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:59	MEDICIN. HÄLSOVÅRD	8	8	74	0	0.0975609756097561	1.0	0.17777777777777776
+http://urn.fi/URN:NBN:fi:au:ykl:62	METALLINDUSTRI. MASKINTEKNIK. TRANSPORTMEDEL ELTEKNIK	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.54	Vattenfarkoster	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:64.52	Optiska och medicinska instrument och apparater	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:65.4	Textilarbete	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:66	BYGGNADSTEKNIK	1	1	3	0	0.25	1.0	0.4
+http://urn.fi/URN:NBN:fi:au:ykl:66	BYGGNADSTEKNIK	1	1	8	0	0.1111111111111111	1.0	0.19999999999999998
 http://urn.fi/URN:NBN:fi:au:ykl:78.32	Solosång	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.33	Sångensembler (2-9 sångare)	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.341	Körer utan ackompanjemang	0	0	0	0	0.0	0.0	0.0
@@ -2193,44 +2193,44 @@ http://urn.fi/URN:NBN:fi:au:ykl:78.6	Musik för tangentinstrument. Musik för kn
 http://urn.fi/URN:NBN:fi:au:ykl:78.9	Musikhistoria	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:90.4	Allmän arkeologi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:95	BRITTISKA ÖARNAS HISTORIA	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:99.139	Biografier. Memoarer, krigsmemoarer	1	1	21	0	0.045454545454545456	1.0	0.08695652173913045
+http://urn.fi/URN:NBN:fi:au:ykl:99.139	Biografier. Memoarer, krigsmemoarer	1	1	22	0	0.043478260869565216	1.0	0.08333333333333333
 http://urn.fi/URN:NBN:fi:au:ykl:fiktioluokka	Tilläggsklass för fiktivt material	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:01.2	Allmänna bibliografier. Nationalbibliografier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:01.7	Samkataloger för bibliotek	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:05.4	Tidningar	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:07	KOMMUNIKATION. MASSKOMMUNIKATION	1	0	41	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:14.8	De mänskliga relationernas psykologi	1	0	4	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:07	KOMMUNIKATION. MASSKOMMUNIKATION	1	0	30	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:14.8	De mänskliga relationernas psykologi	1	0	5	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:21	RELIGIONSFILOSOFI	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:22.3	Bibliska personer	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:30.11	Sociala system	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:32.4	Åldersgruppernas ställning i samhället	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:33.5	Straffrätt	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:34.5	Samhällsplanering. Stadsplanering. Miljöplanering	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:35.6	Brand- och räddningsväsen	0	0	5	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:36	EKONOMISK VETENSKAP. NATIONALEKONOMI	1	0	9	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:37.1	Arbetarskydd. Ergonomi	0	0	9	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:35.6	Brand- och räddningsväsen	0	0	6	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:36	EKONOMISK VETENSKAP. NATIONALEKONOMI	1	0	11	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:37.1	Arbetarskydd. Ergonomi	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.55	Specialundervisning. Specialpedagogik. Specialskolor	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:40.8	Reseskildringar	1	1	23	0	0.041666666666666664	1.0	0.07999999999999999
+http://urn.fi/URN:NBN:fi:au:ykl:40.8	Reseskildringar	1	1	20	0	0.047619047619047616	1.0	0.0909090909090909
 http://urn.fi/URN:NBN:fi:au:ykl:44	MELLANEUROPA	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:49.26	Finländsk och finsk-ugrisk etnologi, Folkseder	0	0	24	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:49.26	Finländsk och finsk-ugrisk etnologi, Folkseder	0	0	23	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.742	Bildåtergivningsteknik. TV-teknik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.58	Miniatyrmodeller av trafikmedel	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:69.16	Kontorsarbete. Kontorsteknik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:69.35	Reklam	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:71	NYA KONSTFORMER	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:71	NYA KONSTFORMER	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:75.79	Fotografins och fotokonstens historia	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:77.19	Teater- och scenkonstens historia	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:77.19	Teater- och scenkonstens historia	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.34	Körer (fler än 9 sjungare)	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.344	Körer till ackompanjemang av orkester	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.192	Gamla tidens och medeltidens litteratur, Europa	0	0	3	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:88.2	Finska	10	10	94	0	0.09615384615384616	1.0	0.17543859649122806
-http://urn.fi/URN:NBN:fi:au:ykl:89	INDOEUROPEISKA SPRÅK. ÖVRIGA SPRÅK	1	1	13	0	0.07142857142857142	1.0	0.13333333333333333
-http://urn.fi/URN:NBN:fi:au:ykl:92.8	Finlands historia, lokalhistoria	2	2	49	0	0.0392156862745098	1.0	0.07547169811320754
+http://urn.fi/URN:NBN:fi:au:ykl:88.2	Finska	10	10	90	0	0.1	1.0	0.18181818181818182
+http://urn.fi/URN:NBN:fi:au:ykl:89	INDOEUROPEISKA SPRÅK. ÖVRIGA SPRÅK	1	1	12	0	0.07692307692307693	1.0	0.14285714285714288
+http://urn.fi/URN:NBN:fi:au:ykl:92.8	Finlands historia, lokalhistoria	2	2	43	0	0.044444444444444446	1.0	0.0851063829787234
 http://urn.fi/URN:NBN:fi:au:ykl:01.8	Enskilda biblioteks kataloger	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.36	Informationstjänst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:05.1	Tidskrifter	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:17.3	Livsfilosofi. Levnadskonst	2	1	17	1	0.05555555555555555	0.5	0.09999999999999999
-http://urn.fi/URN:NBN:fi:au:ykl:32.01	Statsfilosofi. Politiska ideologier	1	0	6	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:17.3	Livsfilosofi. Levnadskonst	2	1	15	1	0.0625	0.5	0.1111111111111111
+http://urn.fi/URN:NBN:fi:au:ykl:32.01	Statsfilosofi. Politiska ideologier	1	0	5	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.5	Offentlig ekonomi. Finansvetenskap	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:36.6	Internationell ekonomi. Världshandeln	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:37.233	Handikappservice	0	0	0	0	0.0	0.0	0.0
@@ -2238,48 +2238,48 @@ http://urn.fi/URN:NBN:fi:au:ykl:59.2	Allmän hälsovård	1	0	2	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.56	Psykiatri	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:60.82	Organiska och fossila bränslen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.4	Datorer	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.6	Jakt. Fiske	0	0	5	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:67.6	Jakt. Fiske	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:70.91	Västerländsk konst. Europeisk konst	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:74	MÅLARKONST. TECKNINGSKONST	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:74	MÅLARKONST. TECKNINGSKONST	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:76	FORMGIVNING. KONSTINDUSTRI. KONSTHANTVERK	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:76.1	Inredningskonst. Möbelkonst	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.37	Liturgisk musik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.893	Underhållningsmusik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.3	Bollsport. Kägelspel	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:79.4	Lägerliv. Friluftsliv	1	1	9	0	0.1	1.0	0.18181818181818182
+http://urn.fi/URN:NBN:fi:au:ykl:79.4	Lägerliv. Friluftsliv	1	1	11	0	0.08333333333333333	1.0	0.15384615384615385
 http://urn.fi/URN:NBN:fi:au:ykl:86.12	Skönlitterära motivs historia och forskning i dem	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.1934	Modern litteratur, Europa	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:89.31	Svenska	12	12	89	0	0.1188118811881188	1.0	0.21238938053097342
-http://urn.fi/URN:NBN:fi:au:ykl:90.2	Allmän kulturhistoria	0	0	13	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:89.31	Svenska	12	12	88	0	0.12	1.0	0.21428571428571425
+http://urn.fi/URN:NBN:fi:au:ykl:90.2	Allmän kulturhistoria	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:01.4	Personbibliografier	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:14.4	Personlighetspsykologi	0	0	3	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:15.9	Ockultism. Spiritism. Andevärlden	1	0	4	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:14.4	Personlighetspsykologi	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:15.9	Ockultism. Spiritism. Andevärlden	1	0	3	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.4	Universitet. Högskolor	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:49.25	Finländsk och finsk-ugrisk etnologi, Näringar, arbete, redskap	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:57	BOTANIK	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:57	BOTANIK	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.1	Medicinsk biologi	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:61.741	Ljudteknik. Radioteknik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:64.5	Finmekanisk industri	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:66.4	Underhåll av byggnader	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:66.4	Underhåll av byggnader	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.5	Skogsbruk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:67.7	Livsmedelsindustri	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:69.62	Landtrafik	1	1	1	0	0.5	1.0	0.6666666666666666
 http://urn.fi/URN:NBN:fi:au:ykl:72	ARKITEKTUR	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:78.894	Vismusik	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:78.894	Vismusik	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:81	FOLKDIKTNING	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.19	Europeisk litteraturhistoria och litteraturforskning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.5	Litteraturhistoria och -forskning som rör litteratur på engelska	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.8	Litteraturhistoria och -forskning som rör litteratur på övriga indoeuropeiska språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:00	BOKBRANSCHEN	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.4	Ekonomisk rätt	0	0	5	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:33.4	Ekonomisk rätt	0	0	3	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:35	FÖRVALTNING	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.6	Vuxenutbildning. Fritt bildningsarbete	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.6	Vuxenutbildning. Fritt bildningsarbete	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:38.7	Ungdomsarbete. Barnarbete	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:54	KEMI	9	9	39	0	0.1875	1.0	0.3157894736842105
-http://urn.fi/URN:NBN:fi:au:ykl:62.6	Elektroteknik	0	0	9	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:54	KEMI	9	9	47	0	0.16071428571428573	1.0	0.27692307692307694
+http://urn.fi/URN:NBN:fi:au:ykl:62.6	Elektroteknik	0	0	7	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:64.3	Textil- och beklädnadsindustri	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:69.13	Personalpolitik	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:69.63	Sjöfart	1	0	4	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:69.63	Sjöfart	1	0	8	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:72.2	Byggnader. Byggnadstyper	1	1	1	0	0.5	1.0	0.6666666666666666
 http://urn.fi/URN:NBN:fi:au:ykl:73.9	Skulpturens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.8	Musik för blåsinstrument. Musik för slaginstrument. Musik för övriga instrument. Elektroakustisk musik. Sammansmältningar av musikkulturer. Populärmusik	0	0	0	0	0.0	0.0	0.0
@@ -2289,20 +2289,20 @@ http://urn.fi/URN:NBN:fi:au:ykl:98	ÖVRIGA VÄRLDSDELARS HISTORIA	0	0	0	0	0.0	0.
 http://urn.fi/URN:NBN:fi:au:ykl:00.2	Symboler. Koder. Teckensystem	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:01	BIBLIOGRAFI	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:14.12	Inlärningspsykologi	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:24	KRISTEN ANDAKTSLITTERATUR	1	0	36	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:28	KRISTNA KYRKOR OCH SAMFUND. KYRKOHISTORIA	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:32.18	Politiska system och inrikespolitik i olika länder	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:24	KRISTEN ANDAKTSLITTERATUR	1	0	34	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:28	KRISTNA KYRKOR OCH SAMFUND. KYRKOHISTORIA	0	0	2	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:32.18	Politiska system och inrikespolitik i olika länder	0	0	4	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:34.57	Planering av grönområden	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:36.1	Ekonomisk politik. Ekonomiska strukturen	0	0	4	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:36.1	Ekonomisk politik. Ekonomiska strukturen	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:39.1	Vapen. Upprustning. Vapenhandel	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:42	FINLAND	1	0	21	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:55	FYSISK GEOGRAFI. GEOLOGI	0	0	10	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:61	ADB. DATATEKNIK. DATAKOMMUNIKATION. KOMMUNIKATIONSTEKNIK	1	1	9	0	0.1	1.0	0.18181818181818182
-http://urn.fi/URN:NBN:fi:au:ykl:61.7	Datakommunikation. Kommunikationsteknik. Multimedia	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:62.511	Bilar	0	0	3	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:69.3	Marknadsföring. Handel	0	0	8	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:42	FINLAND	1	0	19	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:55	FYSISK GEOGRAFI. GEOLOGI	0	0	8	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:61	ADB. DATATEKNIK. DATAKOMMUNIKATION. KOMMUNIKATIONSTEKNIK	1	1	21	0	0.045454545454545456	1.0	0.08695652173913045
+http://urn.fi/URN:NBN:fi:au:ykl:61.7	Datakommunikation. Kommunikationsteknik. Multimedia	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:62.511	Bilar	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:69.3	Marknadsföring. Handel	0	0	5	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.49	Filmens historia. TV-programmens historia	0	0	3	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:78	MUSIK	2	1	64	1	0.015384615384615385	0.5	0.029850746268656723
+http://urn.fi/URN:NBN:fi:au:ykl:78	MUSIK	2	1	103	1	0.009615384615384616	0.5	0.01886792452830189
 http://urn.fi/URN:NBN:fi:au:ykl:78.1	Musikforskning	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.3	Vokalmusik. Scenmusik. Liturgisk musik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.31	Samlingar av sånger	0	0	0	0	0.0	0.0	0.0
@@ -2311,12 +2311,12 @@ http://urn.fi/URN:NBN:fi:au:ykl:86.6	Litteraturhistoria och -forskning som rör 
 http://urn.fi/URN:NBN:fi:au:ykl:87	SPRÅKVETENSKAP	1	1	5	0	0.16666666666666666	1.0	0.2857142857142857
 http://urn.fi/URN:NBN:fi:au:ykl:99.2	Biografiska uppslagsverk	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:muotoluokka	Formtillägg	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33	RÄTTSVETENSKAP	3	3	17	0	0.15	1.0	0.2608695652173913
+http://urn.fi/URN:NBN:fi:au:ykl:33	RÄTTSVETENSKAP	3	3	39	0	0.07142857142857142	1.0	0.13333333333333333
 http://urn.fi/URN:NBN:fi:au:ykl:34.56	Trafikplanering	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:56	BIOLOGI	7	7	30	0	0.1891891891891892	1.0	0.3181818181818182
-http://urn.fi/URN:NBN:fi:au:ykl:59.4	Behandlingsmetoder	0	0	5	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:56	BIOLOGI	7	7	38	0	0.15555555555555556	1.0	0.2692307692307693
+http://urn.fi/URN:NBN:fi:au:ykl:59.4	Behandlingsmetoder	0	0	2	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.563	Mental hälsa. Störningar i känslolivet	0	0	1	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:60	TILLÄMPADE VETENSKAPER	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:60	TILLÄMPADE VETENSKAPER	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:62.5	Trafikmedel	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.3	Husbyggnad	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.6	Vägbyggnad	0	0	0	0	0.0	0.0	0.0
@@ -2326,75 +2326,75 @@ http://urn.fi/URN:NBN:fi:au:ykl:80	SKÖNLITTERÄRA VERK MED BLANDAT INNEHÅLL	0	
 http://urn.fi/URN:NBN:fi:au:ykl:85.2	BILDERBÖCKER	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:85.3	TECKNADE SERIER	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.7	Litteraturhistoria och -forskning som rör litteratur på slaviska och baltiska språk	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:90	HISTORIEFORSKNING. ALLMÄN KULTURHISTORIA ALLMÄN KRIGSIHISTORIA. ALLMÄN ARKEOLOGI	14	11	100	3	0.0990990990990991	0.7857142857142857	0.17600000000000002
-http://urn.fi/URN:NBN:fi:au:ykl:93	NORDENS HISTORIA	1	1	13	0	0.07142857142857142	1.0	0.13333333333333333
+http://urn.fi/URN:NBN:fi:au:ykl:90	HISTORIEFORSKNING. ALLMÄN KULTURHISTORIA ALLMÄN KRIGSIHISTORIA. ALLMÄN ARKEOLOGI	14	12	103	2	0.10434782608695652	0.8571428571428571	0.18604651162790697
+http://urn.fi/URN:NBN:fi:au:ykl:93	NORDENS HISTORIA	1	1	14	0	0.06666666666666667	1.0	0.125
 http://urn.fi/URN:NBN:fi:au:ykl:96	SYDEUROPAS HISTORIA	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:01.5	Kataloger för specialområden	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:32.5	Internationell politik	0	0	2	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:35.7	Polisväsen. Allmän säkerhet	38	38	92	0	0.2923076923076923	1.0	0.4523809523809524
-http://urn.fi/URN:NBN:fi:au:ykl:37.4	Familjepolitik	0	0	5	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:49.2	Finländsk och finsk-ugrisk etnologi	1	0	0	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:58	ZOOLOGI	2	1	10	1	0.09090909090909091	0.5	0.15384615384615385
+http://urn.fi/URN:NBN:fi:au:ykl:35.7	Polisväsen. Allmän säkerhet	38	38	95	0	0.2857142857142857	1.0	0.4444444444444445
+http://urn.fi/URN:NBN:fi:au:ykl:37.4	Familjepolitik	0	0	3	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:49.2	Finländsk och finsk-ugrisk etnologi	1	0	1	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:58	ZOOLOGI	2	1	9	1	0.1	0.5	0.16666666666666669
 http://urn.fi/URN:NBN:fi:au:ykl:59.24	Socialmedicin. Miljömedicin	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.89	Sammansmältningar av musikkulturer. Populärmusik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.13	De tecknade seriernas historia. Forskning i tecknade serier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:00.6	Förlagsverksamhet. Bokhandel	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02.3	Biblioteksarbete. Biblioteksteknik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:03	INFORMATIONSSÖKNING. ALLMÄNNA UPPSLAGSVERK. ALLMÄNNA ENCYKLOPEDIER	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:06	ALLMÄN KULTURPOLITIK	1	0	1	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:06	ALLMÄN KULTURPOLITIK	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:63.5	Kemisk industri	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:69.1	Företagsekonomisk administration	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:69.1	Företagsekonomisk administration	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:74.9	Tecknings- och målarkonstens historia	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.9	Litteraturhistoria och -forskning som rör litteratur på övriga språk	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:94	MELLANEUROPAS HISTORIA	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:30	ALLMÄN SAMHÄLLSVETENSKAP	5	4	76	1	0.05	0.8	0.09411764705882354
+http://urn.fi/URN:NBN:fi:au:ykl:30	ALLMÄN SAMHÄLLSVETENSKAP	5	4	84	1	0.045454545454545456	0.8	0.08602150537634409
 http://urn.fi/URN:NBN:fi:au:ykl:56.9	Ekologi. Biogeografi	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:66.7	Vattenbyggnad	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:67.3	Jordbruk. Trädgårdsskötsel. Nyttoväxter	1	1	15	0	0.0625	1.0	0.11764705882352941
+http://urn.fi/URN:NBN:fi:au:ykl:67.3	Jordbruk. Trädgårdsskötsel. Nyttoväxter	1	1	6	0	0.14285714285714285	1.0	0.25
 http://urn.fi/URN:NBN:fi:au:ykl:67.4	Husdjursekonomi. Husdjursskötsel	1	0	0	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:68.2	Matlagning. Matkultur	3	3	89	0	0.03260869565217391	1.0	0.06315789473684211
+http://urn.fi/URN:NBN:fi:au:ykl:68.2	Matlagning. Matkultur	3	3	71	0	0.04054054054054054	1.0	0.07792207792207792
 http://urn.fi/URN:NBN:fi:au:ykl:79.1	Motion. Idrott	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:79.6	Motion. Motionsidrott	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:97	ÖSTEUROPAS HISTORIA	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:11	FILOSOFI	4	3	44	1	0.06382978723404255	0.75	0.11764705882352941
-http://urn.fi/URN:NBN:fi:au:ykl:30.12	Levnadssättens sociologi. Kultursociologi	1	0	16	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:33.45	Trafiklagstiftning	0	0	2	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:35.4	Kommunalförvaltning. Lokalförvaltning	1	0	1	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38.5	Skolväsen	1	1	39	0	0.025	1.0	0.04878048780487806
+http://urn.fi/URN:NBN:fi:au:ykl:11	FILOSOFI	4	3	45	1	0.0625	0.75	0.11538461538461539
+http://urn.fi/URN:NBN:fi:au:ykl:30.12	Levnadssättens sociologi. Kultursociologi	1	0	8	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:33.45	Trafiklagstiftning	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:35.4	Kommunalförvaltning. Lokalförvaltning	1	0	0	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:38.5	Skolväsen	1	1	37	0	0.02631578947368421	1.0	0.05128205128205127
 http://urn.fi/URN:NBN:fi:au:ykl:77.43	Filmgenrer. Genrer inom TV-serier	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:77.433	Animationsfilm	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.4	Traditionell musik. Folkmusik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:05	ALLMÄNNA PERIODISKA PUBLIKATIONER	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:20	ALLMÄN RELIGIONSVETENSKAP	9	8	71	1	0.10126582278481013	0.8888888888888888	0.1818181818181818
+http://urn.fi/URN:NBN:fi:au:ykl:20	ALLMÄN RELIGIONSVETENSKAP	9	8	82	1	0.08888888888888889	0.8888888888888888	0.16161616161616163
 http://urn.fi/URN:NBN:fi:au:ykl:29	ÖVRIGA RELIGIONER OCH MYTOLOGIER	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.97	De övriga europeiska ländernas musikhistoria	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:82	POESI	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.11	Barn- och ungdomslitteraturens historia. Forskning i barn- och ungdomslitteratur	1	0	0	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:86.4	Litteraturhistoria och -forskning som rör litteratur på tyska	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:76.2	Textilkonst	0	0	0	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:76.2	Textilkonst	0	0	1	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:78.98	Musikhistoria i länder i andra världsdelar	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:02	BIBLIOTEKSVERKSAMHET. BIBLIOTEKSVETENSKAP. INFORMATIK	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:32	STATSLÄRA. POLITIK	2	1	33	1	0.029411764705882353	0.5	0.05555555555555555
-http://urn.fi/URN:NBN:fi:au:ykl:36.13	Arbete. Arbetsliv	0	0	2	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:37	SOCIALPOLITIK	2	0	46	2	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:65	HANDARBETE. HEMSLÖJD	0	0	31	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:32.2	Mänskliga rättigheter. Medborgarens ställning i samhället	1	1	14	0	0.06666666666666667	1.0	0.125
-http://urn.fi/URN:NBN:fi:au:ykl:33.2	Offentlig rätt och förvaltningsrätt	1	1	3	0	0.25	1.0	0.4
-http://urn.fi/URN:NBN:fi:au:ykl:86.2	Finländsk och finsk-ugrisk litteraturhistoria samt forskning i den finländska och finsk-ugriska litteraturen	0	0	15	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:91	VÄRLDSHISTORIA. EUROPAS HISTORIA	1	0	36	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:32	STATSLÄRA. POLITIK	2	1	35	1	0.027777777777777776	0.5	0.05263157894736842
+http://urn.fi/URN:NBN:fi:au:ykl:36.13	Arbete. Arbetsliv	0	0	1	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:37	SOCIALPOLITIK	2	0	43	2	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:65	HANDARBETE. HEMSLÖJD	0	0	29	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:32.2	Mänskliga rättigheter. Medborgarens ställning i samhället	1	1	16	0	0.058823529411764705	1.0	0.1111111111111111
+http://urn.fi/URN:NBN:fi:au:ykl:33.2	Offentlig rätt och förvaltningsrätt	1	1	5	0	0.16666666666666666	1.0	0.2857142857142857
+http://urn.fi/URN:NBN:fi:au:ykl:86.2	Finländsk och finsk-ugrisk litteraturhistoria samt forskning i den finländska och finsk-ugriska litteraturen	0	0	11	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:91	VÄRLDSHISTORIA. EUROPAS HISTORIA	1	0	33	1	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:34	REGIONPLANERING. REGIONALPOLITIK	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:48	ÖVRIGA VÄRLDSDELAR	1	0	1	1	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:92	FINLANDS HISTORIA	5	4	63	1	0.05970149253731343	0.8	0.11111111111111112
-http://urn.fi/URN:NBN:fi:au:ykl:50.1	Miljövård. Naturskydd	0	0	7	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:70	KONST. KONSTHISTORIA	2	1	41	1	0.023809523809523808	0.5	0.04545454545454545
+http://urn.fi/URN:NBN:fi:au:ykl:48	ÖVRIGA VÄRLDSDELAR	1	0	0	1	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:92	FINLANDS HISTORIA	5	4	53	1	0.07017543859649122	0.8	0.12903225806451613
+http://urn.fi/URN:NBN:fi:au:ykl:50.1	Miljövård. Naturskydd	0	0	11	0	0.0	0.0	0.0
+http://urn.fi/URN:NBN:fi:au:ykl:70	KONST. KONSTHISTORIA	2	1	29	1	0.03333333333333333	0.5	0.0625
 http://urn.fi/URN:NBN:fi:au:ykl:83	DRAMATIK	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:59.5	Organ. Sjukdomar	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:38	FOSTRAN. UNDERVISNING. PEDAGOGIK	3	3	52	0	0.05454545454545454	1.0	0.10344827586206896
+http://urn.fi/URN:NBN:fi:au:ykl:38	FOSTRAN. UNDERVISNING. PEDAGOGIK	3	3	31	0	0.08823529411764706	1.0	0.1621621621621622
 http://urn.fi/URN:NBN:fi:au:ykl:39	MILITÄRVÄSEN	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:84	PROSA	0	0	0	0	0.0	0.0	0.0
-http://urn.fi/URN:NBN:fi:au:ykl:86	LITTERATURVETENSKAP	2	1	62	1	0.015873015873015872	0.5	0.03076923076923077
-http://urn.fi/URN:NBN:fi:au:ykl:14	PSYKOLOGI	10	10	53	0	0.15873015873015872	1.0	0.27397260273972607
-http://urn.fi/URN:NBN:fi:au:ykl:99.1	Biografier. Memoarer	20	20	127	0	0.1360544217687075	1.0	0.23952095808383236
+http://urn.fi/URN:NBN:fi:au:ykl:86	LITTERATURVETENSKAP	2	1	54	1	0.01818181818181818	0.5	0.03508771929824561
+http://urn.fi/URN:NBN:fi:au:ykl:14	PSYKOLOGI	10	10	67	0	0.12987012987012986	1.0	0.22988505747126434
+http://urn.fi/URN:NBN:fi:au:ykl:99.1	Biografier. Memoarer	20	20	128	0	0.13513513513513514	1.0	0.2380952380952381
 http://urn.fi/URN:NBN:fi:au:ykl:78.18	Forskning i populärmusik	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:32.51	Europeiska unionen	0	0	0	0	0.0	0.0	0.0
 http://urn.fi/URN:NBN:fi:au:ykl:64.54	Instrumentbyggnad	0	0	0	0	0.0	0.0	0.0

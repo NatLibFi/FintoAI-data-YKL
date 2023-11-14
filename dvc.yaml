@@ -97,3 +97,26 @@ stages:
       metrics:
       - reports/test-omikuji-bonsai-${item.lang2}.json:
           cache: false
+  eval-ensemble:
+    foreach:
+      - lang2: fi
+        lang3: fin
+      - lang2: sv
+        lang3: swe
+      - lang2: en
+        lang3: eng
+    do:
+      cmd: annif eval ykl-${item.lang2} -j 8 -m Precision@1 -m NDCG
+        --metrics-file reports/test-${item.lang2}.json
+        --results-file reports/test-${item.lang2}.csv
+        corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      deps:
+      - venv-installed
+      - corpora/kirjaesittelyt2021/kvesit-ykl-${item.lang3}-test.tsv
+      - data/projects/ykl-${item.lang2}
+      outs:
+      - reports/test-${item.lang2}.csv:
+          cache: false
+      metrics:
+      - reports/test-${item.lang2}.json:
+          cache: false
