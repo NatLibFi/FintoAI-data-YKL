@@ -1,5 +1,5 @@
 {
-  "Precision@1": 0.5680110715697905,
-  "NDCG": 0.7042226791381836,
-  "Documents_evaluated": 5058
+  "Precision@1": 0.5855756910122644,
+  "NDCG": 0.721187949180603,
+  "Documents_evaluated": 5463
 }

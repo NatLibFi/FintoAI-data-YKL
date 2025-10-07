@@ -15,7 +15,8 @@ stages:
       size: 764449
       nfiles: 3
   train-omikuji-parabel-fi:
-    cmd: annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    cmd: annif train ykl-omikuji-parabel-fi -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
       md5: ffa2c09b76a8a5370dbe71540da8c0ff
@@ -43,8 +44,9 @@ stages:
       size: 119198246
       nfiles: 6
   eval-omikuji-parabel-fi:
-    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-parabel-fi.json 
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
       md5: e4497d02e1c12d30de314f25ac5c5a8e
@@ -61,20 +63,22 @@ stages:
       md5: e0079ca11936a9627c9ee5b4a23e4c48
       size: 100
   install:
-    cmd: python3 -m venv venv && . venv/bin/activate && pip install -U pip wheel setuptools
-      && pip install -r requirements.txt && cp requirements.txt venv-installed
+    cmd: python3 -m venv venv && . venv/bin/activate && pip install -U pip wheel
+      setuptools && pip install -r requirements.txt && cp requirements.txt 
+      venv-installed
     deps:
     - path: requirements.txt
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
   train-omikuji-bonsai-fi:
-    cmd: annif train ykl-omikuji-bonsai-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    cmd: annif train ykl-omikuji-bonsai-fi -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
       md5: ffa2c09b76a8a5370dbe71540da8c0ff
@@ -105,8 +109,9 @@ stages:
       size: 114643724
       nfiles: 6
   eval-omikuji-bonsai-fi:
-    cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-fi.json corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-bonsai-fi.json 
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
       md5: e4497d02e1c12d30de314f25ac5c5a8e
@@ -126,32 +131,35 @@ stages:
     cmd: annif load-vocab ykl corpora/ykl-skos.ttl
     deps:
     - path: corpora/ykl-skos.ttl
-      md5: fea11c863134c9e8379ea52e0f31e28a
-      size: 3901929
+      hash: md5
+      md5: 674e89e1d7a614a6c0f74a3e6753b493
+      size: 4015004
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: data/vocabs/ykl
       hash: md5
-      md5: 083422d4d504723b2eb4fc4ee8805a99.dir
-      size: 6503179
+      md5: a00543fb038610f4cbaab2188a984825.dir
+      size: 6704821
       nfiles: 3
   train-omikuji-bonsai@0:
-    cmd: annif train ykl-omikuji-bonsai-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    cmd: annif train ykl-omikuji-bonsai-fi -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-      md5: cc52c6a5c21d799aad3fb73a889cd90e
-      size: 36684502
+      hash: md5
+      md5: a9d7eed61bbfad80a94783f117586156
+      size: 38700291
     - path: data/vocabs/ykl
       hash: md5
-      md5: 083422d4d504723b2eb4fc4ee8805a99.dir
-      size: 6503179
+      md5: a00543fb038610f4cbaab2188a984825.dir
+      size: 6704821
       nfiles: 3
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     params:
       projects.toml:
@@ -170,49 +178,53 @@ stages:
     outs:
     - path: data/projects/ykl-omikuji-bonsai-fi
       hash: md5
-      md5: 9bdaf3071b9fe0d13f72e1b2d6873bfb.dir
-      size: 110266624
+      md5: 7027bfe44916fc982305c5ed203a4d5e.dir
+      size: 115018207
       nfiles: 6
   eval-omikuji-bonsai@0:
-    cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-fi.json --results-file reports/test-omikuji-bonsai-fi.csv
+    cmd: annif eval ykl-omikuji-bonsai-fi -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-bonsai-fi.json --results-file 
+      reports/test-omikuji-bonsai-fi.csv 
       corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
-      md5: 9f8d094ae71ec68c5d40dde46d991e1f
-      size: 4534782
+      hash: md5
+      md5: 01cc04f879810d2a8a7fccf2c4453a4e
+      size: 4863424
     - path: data/projects/ykl-omikuji-bonsai-fi
       hash: md5
-      md5: 9bdaf3071b9fe0d13f72e1b2d6873bfb.dir
-      size: 110266624
+      md5: 7027bfe44916fc982305c5ed203a4d5e.dir
+      size: 115018207
       nfiles: 6
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-omikuji-bonsai-fi.csv
       hash: md5
-      md5: 3c536124365595cea86fa741f9c355cb
-      size: 237892
+      md5: 835c546f82d4449cfb38644f21e33422
+      size: 269429
     - path: reports/test-omikuji-bonsai-fi.json
       hash: md5
-      md5: 24f9c18652995a673cb765edf417b2c8
-      size: 100
+      md5: 13ba261622e1634038088fbcb6baee26
+      size: 99
   train-omikuji-bonsai@1:
-    cmd: annif train ykl-omikuji-bonsai-sv -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-swe-train.tsv
+    cmd: annif train ykl-omikuji-bonsai-sv -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-swe-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-swe-train.tsv
-      md5: fa74f039e20594e212d2429eb3e74c13
-      size: 2367569
+      hash: md5
+      md5: 08e49b93b58bfa6ba2693767ca6b4266
+      size: 2480282
     - path: data/vocabs/ykl
       hash: md5
-      md5: 083422d4d504723b2eb4fc4ee8805a99.dir
-      size: 6503179
+      md5: a00543fb038610f4cbaab2188a984825.dir
+      size: 6704821
       nfiles: 3
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     params:
       projects.toml:
@@ -231,23 +243,25 @@ stages:
     outs:
     - path: data/projects/ykl-omikuji-bonsai-sv
       hash: md5
-      md5: e589e2a60b5f7cdcc5e67c7443b4c87a.dir
-      size: 8507130
+      md5: 3cec57fcde3cf753f6e676f6debc34b5.dir
+      size: 8626985
       nfiles: 6
   train-omikuji-bonsai@2:
-    cmd: annif train ykl-omikuji-bonsai-en -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-eng-train.tsv
+    cmd: annif train ykl-omikuji-bonsai-en -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-eng-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-eng-train.tsv
-      md5: 87548d6f8f9a8185dc870e8112668c87
-      size: 1730632
+      hash: md5
+      md5: fc0ac0ce7a57779a9c245afd1da253cf
+      size: 1785924
     - path: data/vocabs/ykl
       hash: md5
-      md5: 083422d4d504723b2eb4fc4ee8805a99.dir
-      size: 6503179
+      md5: a00543fb038610f4cbaab2188a984825.dir
+      size: 6704821
       nfiles: 3
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     params:
       projects.toml:
@@ -266,49 +280,53 @@ stages:
     outs:
     - path: data/projects/ykl-omikuji-bonsai-en
       hash: md5
-      md5: 0bce7445a6e1df060f800ec5516959c1.dir
-      size: 5332560
+      md5: cdc49e1542306d6a3d11d777a8597d68.dir
+      size: 5451187
       nfiles: 6
   eval-omikuji-bonsai@2:
-    cmd: annif eval ykl-omikuji-bonsai-en -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-en.json --results-file reports/test-omikuji-bonsai-en.csv
+    cmd: annif eval ykl-omikuji-bonsai-en -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-bonsai-en.json --results-file 
+      reports/test-omikuji-bonsai-en.csv 
       corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
-      md5: bc7f924d84a20e9ab91e2600fd2415ec
-      size: 210866
+      hash: md5
+      md5: 220191142ce0df8ed12a1ba4994bfc4d
+      size: 208933
     - path: data/projects/ykl-omikuji-bonsai-en
       hash: md5
-      md5: 0bce7445a6e1df060f800ec5516959c1.dir
-      size: 5332560
+      md5: cdc49e1542306d6a3d11d777a8597d68.dir
+      size: 5451187
       nfiles: 6
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-omikuji-bonsai-en.csv
       hash: md5
-      md5: e4734c53c0225ad899a06926e8b7e0d1
-      size: 212494
+      md5: 5163e900582c520bce2ab484f8613fe0
+      size: 244295
     - path: reports/test-omikuji-bonsai-en.json
       hash: md5
-      md5: 6f0029dd304ac0fc94b7817aa9ea3462
-      size: 100
+      md5: 151a23612b5bedff42680c48b25a698c
+      size: 84
   train-omikuji-parabel@0:
-    cmd: annif train ykl-omikuji-parabel-fi -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
+    cmd: annif train ykl-omikuji-parabel-fi -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-train.tsv
-      md5: cc52c6a5c21d799aad3fb73a889cd90e
-      size: 36684502
+      hash: md5
+      md5: a9d7eed61bbfad80a94783f117586156
+      size: 38700291
     - path: data/vocabs/ykl
       hash: md5
-      md5: 083422d4d504723b2eb4fc4ee8805a99.dir
-      size: 6503179
+      md5: a00543fb038610f4cbaab2188a984825.dir
+      size: 6704821
       nfiles: 3
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     params:
       projects.toml:
@@ -324,49 +342,53 @@ stages:
     outs:
     - path: data/projects/ykl-omikuji-parabel-fi
       hash: md5
-      md5: 44ab11d0b3e729a0dcd3b88fdadb7567.dir
-      size: 114032199
+      md5: 9e1becc49ccd1dd118da77a4da668432.dir
+      size: 118900698
       nfiles: 6
   eval-omikuji-parabel@0:
-    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-fi.json --results-file reports/test-omikuji-parabel-fi.csv
+    cmd: annif eval ykl-omikuji-parabel-fi -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-parabel-fi.json --results-file 
+      reports/test-omikuji-parabel-fi.csv 
       corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
-      md5: 9f8d094ae71ec68c5d40dde46d991e1f
-      size: 4534782
+      hash: md5
+      md5: 01cc04f879810d2a8a7fccf2c4453a4e
+      size: 4863424
     - path: data/projects/ykl-omikuji-parabel-fi
       hash: md5
-      md5: 44ab11d0b3e729a0dcd3b88fdadb7567.dir
-      size: 114032199
+      md5: 9e1becc49ccd1dd118da77a4da668432.dir
+      size: 118900698
       nfiles: 6
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-omikuji-parabel-fi.csv
       hash: md5
-      md5: 6ef001dff735a3b3a64082c02721736c
-      size: 236720
+      md5: 71254a2822394d7f56053c188d9ec810
+      size: 269521
     - path: reports/test-omikuji-parabel-fi.json
       hash: md5
-      md5: 1a7877d85e63ee67dc0c77f8b5c25ba2
-      size: 97
+      md5: aa6acac90c0cf1cdd1e8c5e4a50aee84
+      size: 100
   train-omikuji-parabel@1:
-    cmd: annif train ykl-omikuji-parabel-sv -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-swe-train.tsv
+    cmd: annif train ykl-omikuji-parabel-sv -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-swe-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-swe-train.tsv
-      md5: fa74f039e20594e212d2429eb3e74c13
-      size: 2367569
+      hash: md5
+      md5: 08e49b93b58bfa6ba2693767ca6b4266
+      size: 2480282
     - path: data/vocabs/ykl
       hash: md5
-      md5: 083422d4d504723b2eb4fc4ee8805a99.dir
-      size: 6503179
+      md5: a00543fb038610f4cbaab2188a984825.dir
+      size: 6704821
       nfiles: 3
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     params:
       projects.toml:
@@ -382,49 +404,53 @@ stages:
     outs:
     - path: data/projects/ykl-omikuji-parabel-sv
       hash: md5
-      md5: ce70c5681d39ac52e3b2a9fc2efa7f4a.dir
-      size: 8635331
+      md5: f1ee973a0bd86b5902527429e64a2888.dir
+      size: 9257444
       nfiles: 6
   eval-omikuji-parabel@1:
-    cmd: annif eval ykl-omikuji-parabel-sv -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-sv.json --results-file reports/test-omikuji-parabel-sv.csv
+    cmd: annif eval ykl-omikuji-parabel-sv -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-parabel-sv.json --results-file 
+      reports/test-omikuji-parabel-sv.csv 
       corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
-      md5: a9177ace2f0d1dffa6a424fccdf04b37
-      size: 287821
+      hash: md5
+      md5: fa7430b02f93bc8ff7b02329b514eb51
+      size: 295200
     - path: data/projects/ykl-omikuji-parabel-sv
       hash: md5
-      md5: ce70c5681d39ac52e3b2a9fc2efa7f4a.dir
-      size: 8635331
+      md5: f1ee973a0bd86b5902527429e64a2888.dir
+      size: 9257444
       nfiles: 6
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-omikuji-parabel-sv.csv
       hash: md5
-      md5: a9b65c5400c421b4ce9f1f7e44dffccd
-      size: 214164
+      md5: e5dd3b777ebcf0a1f50262d71ff0ce34
+      size: 243863
     - path: reports/test-omikuji-parabel-sv.json
       hash: md5
-      md5: 7f68b59b4db8a3a6116e8ec105913678
-      size: 87
+      md5: b136f717a66db10bc4a047d56fce14d8
+      size: 97
   train-omikuji-parabel@2:
-    cmd: annif train ykl-omikuji-parabel-en -j 8 corpora/kirjaesittelyt2021/kvesit-ykl-eng-train.tsv
+    cmd: annif train ykl-omikuji-parabel-en -j 8 
+      corpora/kirjaesittelyt2021/kvesit-ykl-eng-train.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-eng-train.tsv
-      md5: 87548d6f8f9a8185dc870e8112668c87
-      size: 1730632
+      hash: md5
+      md5: fc0ac0ce7a57779a9c245afd1da253cf
+      size: 1785924
     - path: data/vocabs/ykl
       hash: md5
-      md5: 083422d4d504723b2eb4fc4ee8805a99.dir
-      size: 6503179
+      md5: a00543fb038610f4cbaab2188a984825.dir
+      size: 6704821
       nfiles: 3
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     params:
       projects.toml:
@@ -440,69 +466,74 @@ stages:
     outs:
     - path: data/projects/ykl-omikuji-parabel-en
       hash: md5
-      md5: f1d1a08423ae130c839f3db15bc9ddf3.dir
-      size: 5326770
+      md5: b610b0c8e92b61b792f1cb3f04a45bab.dir
+      size: 5450414
       nfiles: 6
   eval-omikuji-parabel@2:
-    cmd: annif eval ykl-omikuji-parabel-en -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-parabel-en.json --results-file reports/test-omikuji-parabel-en.csv
+    cmd: annif eval ykl-omikuji-parabel-en -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-parabel-en.json --results-file 
+      reports/test-omikuji-parabel-en.csv 
       corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
-      md5: bc7f924d84a20e9ab91e2600fd2415ec
-      size: 210866
+      hash: md5
+      md5: 220191142ce0df8ed12a1ba4994bfc4d
+      size: 208933
     - path: data/projects/ykl-omikuji-parabel-en
       hash: md5
-      md5: f1d1a08423ae130c839f3db15bc9ddf3.dir
-      size: 5326770
+      md5: b610b0c8e92b61b792f1cb3f04a45bab.dir
+      size: 5450414
       nfiles: 6
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-omikuji-parabel-en.csv
       hash: md5
-      md5: c856d122742783f93908ed93bf2357fc
-      size: 212459
+      md5: db2a9a00673c41005d0b20ba4b49f46f
+      size: 244343
     - path: reports/test-omikuji-parabel-en.json
       hash: md5
-      md5: 1a00cc0b691c5a04e71f5f29896af3a2
-      size: 100
+      md5: 92207aa6698c38352d538ebd2e8bf35f
+      size: 99
   eval-omikuji-bonsai@1:
-    cmd: annif eval ykl-omikuji-bonsai-sv -j 8 -m Precision@1 -m NDCG --metrics-file
-      reports/test-omikuji-bonsai-sv.json --results-file reports/test-omikuji-bonsai-sv.csv
+    cmd: annif eval ykl-omikuji-bonsai-sv -j 8 -m Precision@1 -m NDCG 
+      --metrics-file reports/test-omikuji-bonsai-sv.json --results-file 
+      reports/test-omikuji-bonsai-sv.csv 
       corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
-      md5: a9177ace2f0d1dffa6a424fccdf04b37
-      size: 287821
+      hash: md5
+      md5: fa7430b02f93bc8ff7b02329b514eb51
+      size: 295200
     - path: data/projects/ykl-omikuji-bonsai-sv
       hash: md5
-      md5: e589e2a60b5f7cdcc5e67c7443b4c87a.dir
-      size: 8507130
+      md5: 3cec57fcde3cf753f6e676f6debc34b5.dir
+      size: 8626985
       nfiles: 6
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-omikuji-bonsai-sv.csv
       hash: md5
-      md5: 9a6cd19c12e6d7da7f0021735d81c62a
-      size: 214103
+      md5: 26d3716cd5c6eb8b63e3864f18fc27e0
+      size: 243902
     - path: reports/test-omikuji-bonsai-sv.json
       hash: md5
-      md5: 95ea663acf56c7fbd27d43f755758610
-      size: 87
+      md5: 0790c340f319780045d22ec2a16a6cbd
+      size: 97
   eval-ensemble@0:
-    cmd: annif eval ykl-fi -j 8 -m Precision@1 -m NDCG --metrics-file reports/test-fi.json
-      --results-file reports/test-fi.csv corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
+    cmd: annif eval ykl-fi -j 8 -m Precision@1 -m NDCG --metrics-file 
+      reports/test-fi.json --results-file reports/test-fi.csv 
+      corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-fin-test.tsv
       hash: md5
-      md5: 9f8d094ae71ec68c5d40dde46d991e1f
-      size: 4534782
+      md5: 01cc04f879810d2a8a7fccf2c4453a4e
+      size: 4863424
     - path: data/projects/ykl-fi
       hash: md5
       md5: d751713988987e9331980363e24189ce.dir
@@ -510,25 +541,26 @@ stages:
       nfiles: 0
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-fi.csv
       hash: md5
-      md5: 38c9f688aaf641cc166db2dc72da3ef1
-      size: 237209
+      md5: a518fa8bc80de087366803ee4df44cc5
+      size: 269540
     - path: reports/test-fi.json
       hash: md5
-      md5: 47cfa99502a3ab3f5a1852b8708cccf9
-      size: 100
+      md5: 6f59554bd8bb4beab2e69065aab1bc5e
+      size: 99
   eval-ensemble@1:
-    cmd: annif eval ykl-sv -j 8 -m Precision@1 -m NDCG --metrics-file reports/test-sv.json
-      --results-file reports/test-sv.csv corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
+    cmd: annif eval ykl-sv -j 8 -m Precision@1 -m NDCG --metrics-file 
+      reports/test-sv.json --results-file reports/test-sv.csv 
+      corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-swe-test.tsv
       hash: md5
-      md5: a9177ace2f0d1dffa6a424fccdf04b37
-      size: 287821
+      md5: fa7430b02f93bc8ff7b02329b514eb51
+      size: 295200
     - path: data/projects/ykl-sv
       hash: md5
       md5: d751713988987e9331980363e24189ce.dir
@@ -536,25 +568,26 @@ stages:
       nfiles: 0
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-sv.csv
       hash: md5
-      md5: 2fff6f3bc20fddd861bf040622e28166
-      size: 214271
+      md5: 737dfdab0528e61c0c93d62314c8606e
+      size: 243899
     - path: reports/test-sv.json
       hash: md5
-      md5: 4f76e748ac704e7b47d74c2c459cacaf
-      size: 87
+      md5: 90067367bc2dc7d9e369927612b84a1b
+      size: 98
   eval-ensemble@2:
-    cmd: annif eval ykl-en -j 8 -m Precision@1 -m NDCG --metrics-file reports/test-en.json
-      --results-file reports/test-en.csv corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
+    cmd: annif eval ykl-en -j 8 -m Precision@1 -m NDCG --metrics-file 
+      reports/test-en.json --results-file reports/test-en.csv 
+      corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
     deps:
     - path: corpora/kirjaesittelyt2021/kvesit-ykl-eng-test.tsv
       hash: md5
-      md5: bc7f924d84a20e9ab91e2600fd2415ec
-      size: 210866
+      md5: 220191142ce0df8ed12a1ba4994bfc4d
+      size: 208933
     - path: data/projects/ykl-en
       hash: md5
       md5: d751713988987e9331980363e24189ce.dir
@@ -562,14 +595,14 @@ stages:
       nfiles: 0
     - path: venv-installed
       hash: md5
-      md5: f85f21b68735b126c2241fbff83fd0ef
+      md5: 523462aeae7c59a03b16e78545cce02c
       size: 41
     outs:
     - path: reports/test-en.csv
       hash: md5
-      md5: eea5b22824d23cb90267eb969a613300
-      size: 212565
+      md5: f703b85eb12c7261868666d210344991
+      size: 244344
     - path: reports/test-en.json
       hash: md5
-      md5: 8d41a89395974efbf8ae06880f94d3c4
-      size: 100
+      md5: 4896d7f9a7fc0f6c14f8e2d598ab200a
+      size: 99
