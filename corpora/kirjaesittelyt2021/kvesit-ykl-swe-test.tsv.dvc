@@ -1,12 +1,12 @@
-md5: db22ea566770374c6af054c9db5f6574
+md5: fc34ea589de5a9c475d13f8164d8941b
 deps:
-- md5: fa7430b02f93bc8ff7b02329b514eb51
-  size: 295200
+- md5: fc997cf8af4ff1c204dd31a81ffd472f
+  size: 325121
   path: 
     /data/Annif-corpora-restricted/kirjaesittelyt2021/ykl/kvesit-ykl-swe-test.tsv
   hash: md5
 outs:
-- md5: fa7430b02f93bc8ff7b02329b514eb51
-  size: 295200
+- md5: fc997cf8af4ff1c204dd31a81ffd472f
+  size: 325121
   path: kvesit-ykl-swe-test.tsv
   hash: md5
