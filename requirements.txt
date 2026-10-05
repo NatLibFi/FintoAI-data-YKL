@@ -1,1 +1,1 @@
-annif[omikuji,voikko]==1.4.*
+annif[omikuji,voikko] @ git+https://github.com/NatLibFi/Annif@main  # Currently at 1.5.0dev0
